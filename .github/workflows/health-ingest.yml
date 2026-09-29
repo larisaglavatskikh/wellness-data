@@ -1,0 +1,24 @@
+name: Apple Health ingest
+
+on:
+  repository_dispatch:
+    types: [health]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: health
+  cancel-in-progress: false
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Store reading
+        run: python3 scripts/health_ingest.py
+      - name: Commit
+        run: |
+          scripts/commit.sh "health: $(jq -r '.client_payload.date // "reading"' "$GITHUB_EVENT_PATH")"

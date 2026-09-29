@@ -1,0 +1,53 @@
+name: WHOOP authorize (one-time)
+
+on:
+  workflow_dispatch:
+    inputs:
+      code:
+        description: "The code=... value from the address bar after you approve access (valid ~10 min)"
+        required: true
+      days:
+        description: "History to import on first run (days)"
+        default: "180"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: whoop
+  cancel-in-progress: false
+
+jobs:
+  authorize:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      WHOOP_CLIENT_ID: ${{ secrets.WHOOP_CLIENT_ID }}
+      WHOOP_CLIENT_SECRET: ${{ secrets.WHOOP_CLIENT_SECRET }}
+      WHOOP_REDIRECT_URI: ${{ vars.WHOOP_REDIRECT_URI || 'https://localhost/whoop-callback' }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check secrets
+        run: |
+          [ -n "$WHOOP_CLIENT_ID" ] && [ -n "$WHOOP_CLIENT_SECRET" ] || {
+            echo "::error::Add WHOOP_CLIENT_ID and WHOOP_CLIENT_SECRET in Settings -> Secrets and variables -> Actions"; exit 1; }
+
+      - name: Exchange code and import history
+        run: |
+          python3 scripts/whoop_sync.py --code "${{ inputs.code }}" \
+            --redirect-uri "$WHOOP_REDIRECT_URI" --days "${{ inputs.days }}"
+
+      - name: Lock refresh token
+        if: always()
+        run: |
+          if [ -s .whoop_rt ]; then
+            openssl enc -aes-256-cbc -pbkdf2 -iter 200000 -salt -pass env:WHOOP_CLIENT_SECRET \
+              -in .whoop_rt -out secrets/whoop_rt.enc
+          fi
+          rm -f .whoop_rt
+
+      - name: Commit
+        if: always()
+        run: |
+          scripts/commit.sh "whoop: authorized + history import"

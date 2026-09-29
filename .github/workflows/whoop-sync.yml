@@ -1,0 +1,53 @@
+name: WHOOP sync
+
+on:
+  schedule:
+    # UTC. Lisbon is UTC+1 in summer, UTC+0 in winter.
+    - cron: "17 8 * * *"    # morning: last night's sleep + today's recovery
+    - cron: "17 13 * * *"   # midday: late risers / late sync
+    - cron: "47 21 * * *"   # evening: day strain + workouts
+  workflow_dispatch:
+    inputs:
+      days:
+        description: "How many days back to re-fetch"
+        default: "7"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: whoop          # never refresh the token twice in parallel
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      WHOOP_CLIENT_ID: ${{ secrets.WHOOP_CLIENT_ID }}
+      WHOOP_CLIENT_SECRET: ${{ secrets.WHOOP_CLIENT_SECRET }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Unlock refresh token
+        run: |
+          test -f secrets/whoop_rt.enc || { echo "::error::No token yet - run the 'WHOOP authorize' workflow first"; exit 1; }
+          openssl enc -d -aes-256-cbc -pbkdf2 -iter 200000 -pass env:WHOOP_CLIENT_SECRET \
+            -in secrets/whoop_rt.enc -out .whoop_rt
+
+      - name: Fetch WHOOP data
+        run: python3 scripts/whoop_sync.py --days "${{ inputs.days || '7' }}"
+
+      - name: Lock refresh token
+        if: always()
+        run: |
+          if [ -s .whoop_rt ]; then
+            openssl enc -aes-256-cbc -pbkdf2 -iter 200000 -salt -pass env:WHOOP_CLIENT_SECRET \
+              -in .whoop_rt -out secrets/whoop_rt.enc
+          fi
+          rm -f .whoop_rt
+
+      - name: Commit
+        if: always()
+        run: |
+          scripts/commit.sh "whoop: sync $(date -u +%F)"
