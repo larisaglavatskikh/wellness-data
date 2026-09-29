@@ -113,6 +113,7 @@ def fetch_collection(token, path, start):
                    headers={"Authorization": f"Bearer {token}"})
         out.extend(res.get("records", []))
         next_token = res.get("next_token")
+        time.sleep(0.8)  # stay well under WHOOP's ~100 requests/minute
         if not next_token:
             return out
 
