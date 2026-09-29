@@ -42,7 +42,12 @@ def main():
         p = {**{k: v for k, v in p.items() if k != "metrics"}, **p["metrics"]}
 
     now = datetime.now(TZ)
-    date = str(p.get("date") or now.date().isoformat())[:10]
+    raw_date = str(p.get("date") or "").strip()
+    # ISO 8601 from Shortcuts ("2026-09-29T08:12:00+01:00") carries the time too.
+    iso = re.match(r"(\d{4}-\d{2}-\d{2})[T ](\d{2}:\d{2})", raw_date)
+    if iso and not p.get("time"):
+        p["time"] = iso.group(2)
+    date = raw_date[:10] if raw_date else now.date().isoformat()
     if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", date):
         sys.exit(f"Bad date: {date!r} (the Shortcut should format it as yyyy-MM-dd)")
 
