@@ -38,6 +38,9 @@ def num(v):
 def main():
     event = json.loads(Path(os.environ["GITHUB_EVENT_PATH"]).read_text())
     p = event.get("client_payload") or {}
+    # Keep the raw payload of the last run for troubleshooting the Shortcut.
+    OUT.parent.mkdir(parents=True, exist_ok=True)
+    (OUT.parent / "_last_payload.json").write_text(json.dumps(p, ensure_ascii=False, indent=1) + "\n")
     if isinstance(p.get("metrics"), dict):  # also accept {"date":..., "metrics": {...}}
         p = {**{k: v for k, v in p.items() if k != "metrics"}, **p["metrics"]}
 
