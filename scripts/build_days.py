@@ -25,6 +25,8 @@ for d, v in daily.items():
 for w in workouts.values():
     days.setdefault(w["date"], {}).setdefault("wo", []).append(
         {k: w.get(k) for k in ("sport", "start", "minutes", "strain", "kcal", "avg_hr") if w.get(k) is not None})
+for d in load(root / "health/cycle.json").get("period_days", []):
+    days.setdefault(d, {})["c"] = {"period": True}
 for d, v in scale.items():
     days.setdefault(d, {})["s"] = {k: x for k, x in v.items() if k not in ("date", "history", "source")}
 

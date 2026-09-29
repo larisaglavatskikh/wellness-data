@@ -57,6 +57,17 @@ def main():
     if isinstance(p.get("metrics"), dict):  # also accept {"date":..., "metrics": {...}}
         p = {**{k: v for k, v in p.items() if k != "metrics"}, **p["metrics"]}
 
+    # Menstrual flow from Flo -> Apple Health: "period" carries the date of the latest flow sample.
+    period_raw = str(p.pop("period", "") or "").strip()
+    m = re.match(r"(\d{4}-\d{2}-\d{2})", period_raw)
+    if m:
+        cyc = OUT.parent / "cycle.json"
+        c = json.loads(cyc.read_text()) if cyc.exists() else {"period_days": []}
+        if m.group(1) not in c["period_days"]:
+            c["period_days"] = sorted(c["period_days"] + [m.group(1)])
+            cyc.write_text(json.dumps(c, indent=1) + "\n")
+        print("Period day:", m.group(1))
+
     now = datetime.now(TZ)
     raw_date = str(p.get("date") or "").strip()
     # ISO 8601 from Shortcuts ("2026-09-29T08:12:00+01:00") carries the time too.
@@ -81,6 +92,8 @@ def main():
 
     derive(rec)
     if not any(k not in META for k in rec):
+        if m:  # only a period update, no scale reading today
+            return
         sys.exit(f"No numeric values in payload: {json.dumps(p, ensure_ascii=False)}")
 
     data = json.loads(OUT.read_text()) if OUT.exists() else {}
