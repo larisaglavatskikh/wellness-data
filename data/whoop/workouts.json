@@ -1,0 +1,6889 @@
+{
+ "01630d1e-1fa8-4c04-ac85-ed6d2dfe749a": {
+  "avg_hr": 101,
+  "date": "2026-09-16",
+  "id": "01630d1e-1fa8-4c04-ac85-ed6d2dfe749a",
+  "kcal": 100.0,
+  "max_hr": 139,
+  "minutes": 51,
+  "sport": "weightlifting",
+  "start": "16:33",
+  "strain": 10.9,
+  "zones_min": [
+   33,
+   18,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "02754583-bf3b-4a7e-9b97-49075da729cb": {
+  "avg_hr": 104,
+  "date": "2026-04-19",
+  "id": "02754583-bf3b-4a7e-9b97-49075da729cb",
+  "kcal": 70.0,
+  "max_hr": 138,
+  "minutes": 37,
+  "sport": "walking",
+  "start": "13:18",
+  "strain": 5.1,
+  "zones_min": [
+   25,
+   12,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "02ebce2f-03d3-4d41-a224-0abe32ecbce4": {
+  "avg_hr": 96,
+  "date": "2026-06-23",
+  "id": "02ebce2f-03d3-4d41-a224-0abe32ecbce4",
+  "kcal": 18.0,
+  "max_hr": 122,
+  "minutes": 16,
+  "sport": "walking",
+  "start": "21:56",
+  "strain": 4.0,
+  "zones_min": [
+   16,
+   0,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "0303b871-4112-4a7f-92a0-04136dd596d9": {
+  "avg_hr": 107,
+  "date": "2026-06-10",
+  "id": "0303b871-4112-4a7f-92a0-04136dd596d9",
+  "kcal": 26.0,
+  "max_hr": 127,
+  "minutes": 15,
+  "sport": "walking",
+  "start": "19:26",
+  "strain": 4.4,
+  "zones_min": [
+   8,
+   7,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "03edddd1-c9e5-446f-9eb7-1a7717ae78eb": {
+  "avg_hr": 113,
+  "date": "2026-09-19",
+  "id": "03edddd1-c9e5-446f-9eb7-1a7717ae78eb",
+  "kcal": 94.0,
+  "max_hr": 150,
+  "minutes": 27,
+  "sport": "walking",
+  "start": "12:46",
+  "strain": 5.6,
+  "zones_min": [
+   8,
+   17,
+   2,
+   0,
+   0,
+   0
+  ]
+ },
+ "05043185-ddab-4d5f-9439-aedb61d76794": {
+  "avg_hr": 118,
+  "date": "2026-06-16",
+  "id": "05043185-ddab-4d5f-9439-aedb61d76794",
+  "kcal": 51.0,
+  "max_hr": 139,
+  "minutes": 15,
+  "sport": "walking",
+  "start": "15:14",
+  "strain": 4.8,
+  "zones_min": [
+   2,
+   13,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "05342df8-891e-457f-891e-ad95cee7b8ea": {
+  "avg_hr": 115,
+  "date": "2026-05-24",
+  "id": "05342df8-891e-457f-891e-ad95cee7b8ea",
+  "kcal": 153.0,
+  "max_hr": 140,
+  "minutes": 46,
+  "sport": "dance",
+  "start": "02:07",
+  "strain": 6.4,
+  "zones_min": [
+   13,
+   33,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "06405eb4-3c7a-4c79-b001-99f0f108c36e": {
+  "avg_hr": 121,
+  "date": "2026-07-30",
+  "id": "06405eb4-3c7a-4c79-b001-99f0f108c36e",
+  "kcal": 108.0,
+  "max_hr": 149,
+  "minutes": 26,
+  "sport": "walking",
+  "start": "17:10",
+  "strain": 6.0,
+  "zones_min": [
+   5,
+   18,
+   3,
+   0,
+   0,
+   0
+  ]
+ },
+ "08e8fbd0-45a2-4f44-81ab-1c376a72d7b8": {
+  "avg_hr": 117,
+  "date": "2026-08-14",
+  "id": "08e8fbd0-45a2-4f44-81ab-1c376a72d7b8",
+  "kcal": 112.0,
+  "max_hr": 141,
+  "minutes": 30,
+  "sport": "walking",
+  "start": "17:52",
+  "strain": 5.8,
+  "zones_min": [
+   3,
+   27,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "08f9a0dc-eb57-4876-a9e7-d169ad6c3f8a": {
+  "avg_hr": 115,
+  "date": "2026-06-26",
+  "id": "08f9a0dc-eb57-4876-a9e7-d169ad6c3f8a",
+  "kcal": 209.0,
+  "max_hr": 160,
+  "minutes": 65,
+  "sport": "weightlifting",
+  "start": "17:26",
+  "strain": 12.8,
+  "zones_min": [
+   25,
+   31,
+   7,
+   2,
+   0,
+   0
+  ]
+ },
+ "0966f903-91bc-47aa-bfba-3a318c315d17": {
+  "avg_hr": 125,
+  "date": "2026-06-03",
+  "id": "0966f903-91bc-47aa-bfba-3a318c315d17",
+  "kcal": 292.0,
+  "max_hr": 154,
+  "minutes": 63,
+  "sport": "weightlifting",
+  "start": "08:32",
+  "strain": 13.2,
+  "zones_min": [
+   3,
+   49,
+   12,
+   0,
+   0,
+   0
+  ]
+ },
+ "09e1b2ad-55d9-4993-a842-fb5b83cf37ce": {
+  "avg_hr": 96,
+  "date": "2026-05-03",
+  "id": "09e1b2ad-55d9-4993-a842-fb5b83cf37ce",
+  "kcal": 17.0,
+  "max_hr": 139,
+  "minutes": 15,
+  "sport": "dance",
+  "start": "21:54",
+  "strain": 4.1,
+  "zones_min": [
+   13,
+   2,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "09ff122a-4d9d-4ca0-88b6-014496522b33": {
+  "avg_hr": 91,
+  "date": "2026-07-31",
+  "id": "09ff122a-4d9d-4ca0-88b6-014496522b33",
+  "kcal": 13.0,
+  "max_hr": 110,
+  "minutes": 13,
+  "sport": "walking",
+  "start": "16:33",
+  "strain": 1.7,
+  "zones_min": [
+   13,
+   0,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "0aa95278-a535-4f93-b908-29d452a91568": {
+  "avg_hr": 112,
+  "date": "2026-05-17",
+  "id": "0aa95278-a535-4f93-b908-29d452a91568",
+  "kcal": 46.0,
+  "max_hr": 138,
+  "minutes": 16,
+  "sport": "walking",
+  "start": "19:46",
+  "strain": 4.6,
+  "zones_min": [
+   4,
+   12,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "0ae3f7c2-c83b-49b6-8459-2efc57ac06d6": {
+  "avg_hr": 106,
+  "date": "2026-07-04",
+  "id": "0ae3f7c2-c83b-49b6-8459-2efc57ac06d6",
+  "kcal": 54.0,
+  "max_hr": 125,
+  "minutes": 30,
+  "sport": "walking",
+  "start": "17:21",
+  "strain": 4.8,
+  "zones_min": [
+   24,
+   6,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "0b2a2fa8-a64e-493c-89ed-f8640ad3b689": {
+  "avg_hr": 104,
+  "date": "2026-06-10",
+  "id": "0b2a2fa8-a64e-493c-89ed-f8640ad3b689",
+  "kcal": 21.0,
+  "max_hr": 138,
+  "minutes": 13,
+  "sport": "walking",
+  "start": "09:12",
+  "strain": 4.2,
+  "zones_min": [
+   8,
+   5,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "0b2a72b3-f0a8-48c9-b6d4-4bcf103b6a29": {
+  "avg_hr": 144,
+  "date": "2026-06-14",
+  "id": "0b2a72b3-f0a8-48c9-b6d4-4bcf103b6a29",
+  "kcal": 492.0,
+  "max_hr": 184,
+  "minutes": 68,
+  "sport": "tennis",
+  "start": "07:58",
+  "strain": 14.9,
+  "zones_min": [
+   5,
+   24,
+   13,
+   6,
+   12,
+   7
+  ]
+ },
+ "0be2e947-49b6-462b-ac55-dee58a343fd6": {
+  "avg_hr": 131,
+  "date": "2026-08-29",
+  "id": "0be2e947-49b6-462b-ac55-dee58a343fd6",
+  "kcal": 775.0,
+  "max_hr": 171,
+  "minutes": 143,
+  "sport": "dance",
+  "start": "23:51",
+  "strain": 14.3,
+  "zones_min": [
+   7,
+   86,
+   37,
+   12,
+   1,
+   0
+  ]
+ },
+ "0be6609e-f683-4283-b2cb-80f8fabfc84d": {
+  "avg_hr": 117,
+  "date": "2026-08-27",
+  "id": "0be6609e-f683-4283-b2cb-80f8fabfc84d",
+  "kcal": 51.0,
+  "max_hr": 156,
+  "minutes": 15,
+  "sport": "walking",
+  "start": "10:34",
+  "strain": 4.9,
+  "zones_min": [
+   6,
+   8,
+   1,
+   0,
+   0,
+   0
+  ]
+ },
+ "0c7fdb3e-b7b2-4cbc-bcad-ee9e313b40cb": {
+  "avg_hr": 98,
+  "date": "2026-07-06",
+  "id": "0c7fdb3e-b7b2-4cbc-bcad-ee9e313b40cb",
+  "kcal": 17.0,
+  "max_hr": 120,
+  "minutes": 14,
+  "sport": "hiking-rucking",
+  "start": "20:31",
+  "strain": 4.1,
+  "zones_min": [
+   13,
+   1,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "0da88a69-9741-4321-8a01-9d68424249bb": {
+  "avg_hr": 123,
+  "date": "2026-05-08",
+  "id": "0da88a69-9741-4321-8a01-9d68424249bb",
+  "kcal": 397.0,
+  "max_hr": 163,
+  "minutes": 93,
+  "sport": "weightlifting",
+  "start": "09:02",
+  "strain": 13.8,
+  "zones_min": [
+   9,
+   69,
+   14,
+   1,
+   0,
+   0
+  ]
+ },
+ "0f28815e-fed2-4b60-a609-75216799675a": {
+  "avg_hr": 137,
+  "date": "2026-07-21",
+  "id": "0f28815e-fed2-4b60-a609-75216799675a",
+  "kcal": 375.0,
+  "max_hr": 181,
+  "minutes": 62,
+  "sport": "tennis",
+  "start": "08:01",
+  "strain": 12.0,
+  "zones_min": [
+   5,
+   28,
+   14,
+   11,
+   3,
+   1
+  ]
+ },
+ "0fde460e-a608-45dd-9081-9628675e2c13": {
+  "avg_hr": 120,
+  "date": "2026-06-24",
+  "id": "0fde460e-a608-45dd-9081-9628675e2c13",
+  "kcal": 251.0,
+  "max_hr": 163,
+  "minutes": 65,
+  "sport": "weightlifting",
+  "start": "18:51",
+  "strain": 13.0,
+  "zones_min": [
+   14,
+   43,
+   7,
+   2,
+   0,
+   0
+  ]
+ },
+ "1083513f-e221-4a86-9c2f-46d2c9f38e69": {
+  "avg_hr": 115,
+  "date": "2026-06-23",
+  "id": "1083513f-e221-4a86-9c2f-46d2c9f38e69",
+  "kcal": 71.0,
+  "max_hr": 136,
+  "minutes": 23,
+  "sport": "walking",
+  "start": "19:09",
+  "strain": 5.1,
+  "zones_min": [
+   5,
+   17,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "118b957c-ec85-4484-b19d-3d1dc16723c9": {
+  "avg_hr": 119,
+  "date": "2026-08-16",
+  "id": "118b957c-ec85-4484-b19d-3d1dc16723c9",
+  "kcal": 66.0,
+  "max_hr": 143,
+  "minutes": 17,
+  "sport": "activity",
+  "start": "10:31",
+  "strain": 5.1,
+  "zones_min": [
+   2,
+   15,
+   1,
+   0,
+   0,
+   0
+  ]
+ },
+ "11b0b8bb-ff92-435a-9101-27070a939188": {
+  "avg_hr": 115,
+  "date": "2026-08-13",
+  "id": "11b0b8bb-ff92-435a-9101-27070a939188",
+  "kcal": 96.0,
+  "max_hr": 143,
+  "minutes": 28,
+  "sport": "walking",
+  "start": "20:00",
+  "strain": 5.5,
+  "zones_min": [
+   4,
+   24,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "123f37da-dba8-4ae2-ba9e-ea92a9056f28": {
+  "avg_hr": 107,
+  "date": "2026-09-06",
+  "id": "123f37da-dba8-4ae2-ba9e-ea92a9056f28",
+  "kcal": 32.0,
+  "max_hr": 126,
+  "minutes": 16,
+  "sport": "walking",
+  "start": "15:10",
+  "strain": 4.4,
+  "zones_min": [
+   9,
+   7,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "128a65ef-aa6c-4d68-813c-e65cb528279d": {
+  "avg_hr": 101,
+  "date": "2026-08-03",
+  "id": "128a65ef-aa6c-4d68-813c-e65cb528279d",
+  "kcal": 41.0,
+  "max_hr": 137,
+  "minutes": 23,
+  "sport": "walking",
+  "start": "20:18",
+  "strain": 4.5,
+  "zones_min": [
+   18,
+   5,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "133b13e6-d8ce-41b2-8586-924db133664e": {
+  "avg_hr": 98,
+  "date": "2026-08-08",
+  "id": "133b13e6-d8ce-41b2-8586-924db133664e",
+  "kcal": 28.0,
+  "max_hr": 124,
+  "minutes": 21,
+  "sport": "walking",
+  "start": "17:06",
+  "strain": 4.3,
+  "zones_min": [
+   20,
+   1,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "1395b7dd-5b8d-4dee-ab4f-15c51ec5dd49": {
+  "avg_hr": 113,
+  "date": "2026-06-09",
+  "id": "1395b7dd-5b8d-4dee-ab4f-15c51ec5dd49",
+  "kcal": 47.0,
+  "max_hr": 135,
+  "minutes": 18,
+  "sport": "walking",
+  "start": "20:46",
+  "strain": 4.7,
+  "zones_min": [
+   4,
+   14,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "13fc46cb-f752-4328-bc26-4ad6618b10a1": {
+  "avg_hr": 122,
+  "date": "2026-05-30",
+  "id": "13fc46cb-f752-4328-bc26-4ad6618b10a1",
+  "kcal": 1483.0,
+  "max_hr": 163,
+  "minutes": 343,
+  "sport": "dance",
+  "start": "20:14",
+  "strain": 17.0,
+  "zones_min": [
+   47,
+   236,
+   40,
+   19,
+   0,
+   0
+  ]
+ },
+ "14677a62-b34a-4036-8760-973f1ec2dcf9": {
+  "avg_hr": 92,
+  "date": "2026-08-01",
+  "id": "14677a62-b34a-4036-8760-973f1ec2dcf9",
+  "kcal": 25.0,
+  "max_hr": 118,
+  "minutes": 22,
+  "sport": "hiking-rucking",
+  "start": "13:59",
+  "strain": 4.1,
+  "zones_min": [
+   22,
+   0,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "14de89ab-9203-4af0-9c2f-99048eef589f": {
+  "avg_hr": 117,
+  "date": "2026-07-04",
+  "id": "14de89ab-9203-4af0-9c2f-99048eef589f",
+  "kcal": 53.0,
+  "max_hr": 154,
+  "minutes": 16,
+  "sport": "walking",
+  "start": "19:34",
+  "strain": 4.8,
+  "zones_min": [
+   3,
+   12,
+   1,
+   0,
+   0,
+   0
+  ]
+ },
+ "164c1bf5-7fcc-4341-b0a2-7524852d00fa": {
+  "avg_hr": 107,
+  "date": "2026-05-30",
+  "id": "164c1bf5-7fcc-4341-b0a2-7524852d00fa",
+  "kcal": 37.0,
+  "max_hr": 130,
+  "minutes": 17,
+  "sport": "walking",
+  "start": "17:08",
+  "strain": 4.5,
+  "zones_min": [
+   9,
+   8,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "167f7d0a-7efa-4ce6-9c20-f54f1fb962ab": {
+  "avg_hr": 99,
+  "date": "2026-06-10",
+  "id": "167f7d0a-7efa-4ce6-9c20-f54f1fb962ab",
+  "kcal": 20.0,
+  "max_hr": 121,
+  "minutes": 19,
+  "sport": "walking",
+  "start": "18:12",
+  "strain": 4.1,
+  "zones_min": [
+   17,
+   2,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "16bc4da0-15f1-4a85-985c-d2838382821b": {
+  "avg_hr": 123,
+  "date": "2026-06-13",
+  "id": "16bc4da0-15f1-4a85-985c-d2838382821b",
+  "kcal": 90.0,
+  "max_hr": 155,
+  "minutes": 21,
+  "sport": "walking",
+  "start": "10:00",
+  "strain": 5.7,
+  "zones_min": [
+   3,
+   14,
+   4,
+   0,
+   0,
+   0
+  ]
+ },
+ "16c9ebbd-e9fd-4a81-b88a-fe39192857a7": {
+  "avg_hr": 112,
+  "date": "2026-06-09",
+  "id": "16c9ebbd-e9fd-4a81-b88a-fe39192857a7",
+  "kcal": 44.0,
+  "max_hr": 154,
+  "minutes": 17,
+  "sport": "walking",
+  "start": "21:47",
+  "strain": 4.7,
+  "zones_min": [
+   7,
+   8,
+   2,
+   0,
+   0,
+   0
+  ]
+ },
+ "195a48d4-34ea-45c8-b8e7-0808f8010128": {
+  "avg_hr": 110,
+  "date": "2026-07-18",
+  "id": "195a48d4-34ea-45c8-b8e7-0808f8010128",
+  "kcal": 38.0,
+  "max_hr": 132,
+  "minutes": 16,
+  "sport": "walking",
+  "start": "14:06",
+  "strain": 4.5,
+  "zones_min": [
+   7,
+   9,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "1a5cc2ec-b408-4a79-a87d-65ea537c3df5": {
+  "avg_hr": 122,
+  "date": "2026-07-18",
+  "id": "1a5cc2ec-b408-4a79-a87d-65ea537c3df5",
+  "kcal": 448.0,
+  "max_hr": 153,
+  "minutes": 115,
+  "sport": "dance",
+  "start": "21:31",
+  "strain": 11.1,
+  "zones_min": [
+   34,
+   61,
+   20,
+   0,
+   0,
+   0
+  ]
+ },
+ "1c0960cc-c2fc-428a-b50d-7b3102de9844": {
+  "avg_hr": 141,
+  "date": "2026-09-27",
+  "id": "1c0960cc-c2fc-428a-b50d-7b3102de9844",
+  "kcal": 446.0,
+  "max_hr": 174,
+  "minutes": 63,
+  "sport": "tennis",
+  "start": "08:01",
+  "strain": 13.3,
+  "zones_min": [
+   1,
+   20,
+   18,
+   19,
+   5,
+   0
+  ]
+ },
+ "1df3c8de-4fc9-4e48-aaa7-69f036d3a091": {
+  "avg_hr": 109,
+  "date": "2026-09-26",
+  "id": "1df3c8de-4fc9-4e48-aaa7-69f036d3a091",
+  "kcal": 30.0,
+  "max_hr": 128,
+  "minutes": 12,
+  "sport": "walking",
+  "start": "10:26",
+  "strain": 4.4,
+  "zones_min": [
+   5,
+   7,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "1e7f54bd-a5ef-4a9e-bcf7-dbb3755573d6": {
+  "avg_hr": 117,
+  "date": "2026-08-16",
+  "id": "1e7f54bd-a5ef-4a9e-bcf7-dbb3755573d6",
+  "kcal": 74.0,
+  "max_hr": 146,
+  "minutes": 20,
+  "sport": "walking",
+  "start": "13:11",
+  "strain": 5.2,
+  "zones_min": [
+   4,
+   15,
+   1,
+   0,
+   0,
+   0
+  ]
+ },
+ "1ec96937-aad9-4c0a-a867-d61ee5b61db9": {
+  "avg_hr": 122,
+  "date": "2026-05-18",
+  "id": "1ec96937-aad9-4c0a-a867-d61ee5b61db9",
+  "kcal": 231.0,
+  "max_hr": 163,
+  "minutes": 53,
+  "sport": "weightlifting",
+  "start": "17:53",
+  "strain": 12.6,
+  "zones_min": [
+   7,
+   39,
+   6,
+   1,
+   0,
+   0
+  ]
+ },
+ "1ed29426-99f9-4f4d-96e3-d109801e7949": {
+  "avg_hr": 124,
+  "date": "2026-04-12",
+  "id": "1ed29426-99f9-4f4d-96e3-d109801e7949",
+  "kcal": 442.0,
+  "max_hr": 164,
+  "minutes": 96,
+  "sport": "tennis",
+  "start": "07:55",
+  "strain": 11.0,
+  "zones_min": [
+   13,
+   72,
+   11,
+   0,
+   0,
+   0
+  ]
+ },
+ "1f249cfd-6c54-4ad3-99e4-49ad855b57cc": {
+  "avg_hr": 145,
+  "date": "2026-09-13",
+  "id": "1f249cfd-6c54-4ad3-99e4-49ad855b57cc",
+  "kcal": 500.0,
+  "max_hr": 186,
+  "minutes": 64,
+  "sport": "tennis",
+  "start": "07:58",
+  "strain": 15.1,
+  "zones_min": [
+   6,
+   13,
+   13,
+   10,
+   17,
+   4
+  ]
+ },
+ "1fe71921-f068-4139-b268-a59ab4c8348f": {
+  "avg_hr": 129,
+  "date": "2026-05-17",
+  "id": "1fe71921-f068-4139-b268-a59ab4c8348f",
+  "kcal": 315.0,
+  "max_hr": 180,
+  "minutes": 60,
+  "sport": "tennis",
+  "start": "08:05",
+  "strain": 10.9,
+  "zones_min": [
+   11,
+   26,
+   11,
+   9,
+   3,
+   0
+  ]
+ },
+ "2109201f-dd59-424e-919e-9aa49b3fdeb0": {
+  "avg_hr": 117,
+  "date": "2026-08-24",
+  "id": "2109201f-dd59-424e-919e-9aa49b3fdeb0",
+  "kcal": 47.0,
+  "max_hr": 139,
+  "minutes": 13,
+  "sport": "walking",
+  "start": "10:55",
+  "strain": 4.7,
+  "zones_min": [
+   1,
+   12,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "221ecec9-80ee-42f5-a113-5f4e9235e591": {
+  "avg_hr": 115,
+  "date": "2026-06-12",
+  "id": "221ecec9-80ee-42f5-a113-5f4e9235e591",
+  "kcal": 49.0,
+  "max_hr": 144,
+  "minutes": 16,
+  "sport": "swimming",
+  "start": "11:41",
+  "strain": 4.8,
+  "zones_min": [
+   5,
+   11,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "2253e42a-88eb-40c5-97c3-4f7f0a1e6694": {
+  "avg_hr": 120,
+  "date": "2026-08-28",
+  "id": "2253e42a-88eb-40c5-97c3-4f7f0a1e6694",
+  "kcal": 98.0,
+  "max_hr": 145,
+  "minutes": 26,
+  "sport": "walking",
+  "start": "10:06",
+  "strain": 5.6,
+  "zones_min": [
+   4,
+   21,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "228c50e6-085b-4b5a-8c11-a2de6147318f": {
+  "avg_hr": 140,
+  "date": "2026-05-31",
+  "id": "228c50e6-085b-4b5a-8c11-a2de6147318f",
+  "kcal": 423.0,
+  "max_hr": 173,
+  "minutes": 61,
+  "sport": "tennis",
+  "start": "15:03",
+  "strain": 13.2,
+  "zones_min": [
+   3,
+   21,
+   12,
+   18,
+   7,
+   0
+  ]
+ },
+ "22c82631-9aa7-4cf9-b104-4dac95d3027e": {
+  "avg_hr": 107,
+  "date": "2026-07-04",
+  "id": "22c82631-9aa7-4cf9-b104-4dac95d3027e",
+  "kcal": 65.0,
+  "max_hr": 147,
+  "minutes": 32,
+  "sport": "walking",
+  "start": "18:09",
+  "strain": 5.0,
+  "zones_min": [
+   21,
+   10,
+   1,
+   0,
+   0,
+   0
+  ]
+ },
+ "23547cf2-bc8e-4686-83f6-7626512ad7d5": {
+  "avg_hr": 125,
+  "date": "2026-07-11",
+  "id": "23547cf2-bc8e-4686-83f6-7626512ad7d5",
+  "kcal": 65.0,
+  "max_hr": 142,
+  "minutes": 15,
+  "sport": "activity",
+  "start": "14:11",
+  "strain": 5.1,
+  "zones_min": [
+   0,
+   14,
+   1,
+   0,
+   0,
+   0
+  ]
+ },
+ "23aa3516-1f62-499a-9570-6cfae4c6c207": {
+  "avg_hr": 115,
+  "date": "2026-04-16",
+  "id": "23aa3516-1f62-499a-9570-6cfae4c6c207",
+  "kcal": 106.0,
+  "max_hr": 138,
+  "minutes": 31,
+  "sport": "walking",
+  "start": "18:57",
+  "strain": 5.7,
+  "zones_min": [
+   7,
+   25,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "24240a09-a714-4843-9d00-64e4f8a76a62": {
+  "avg_hr": 107,
+  "date": "2026-09-26",
+  "id": "24240a09-a714-4843-9d00-64e4f8a76a62",
+  "kcal": 31.0,
+  "max_hr": 126,
+  "minutes": 14,
+  "sport": "walking",
+  "start": "11:39",
+  "strain": 4.5,
+  "zones_min": [
+   7,
+   7,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "2448d47e-9568-4082-9705-12f6010239a5": {
+  "avg_hr": 131,
+  "date": "2026-05-19",
+  "id": "2448d47e-9568-4082-9705-12f6010239a5",
+  "kcal": 468.0,
+  "max_hr": 165,
+  "minutes": 83,
+  "sport": "tennis",
+  "start": "20:57",
+  "strain": 12.4,
+  "zones_min": [
+   6,
+   40,
+   28,
+   9,
+   0,
+   0
+  ]
+ },
+ "24eb4359-0367-4452-9ac4-2b496bca5145": {
+  "avg_hr": 103,
+  "date": "2026-05-26",
+  "id": "24eb4359-0367-4452-9ac4-2b496bca5145",
+  "kcal": 28.0,
+  "max_hr": 123,
+  "minutes": 17,
+  "sport": "hiking-rucking",
+  "start": "22:17",
+  "strain": 4.4,
+  "zones_min": [
+   14,
+   3,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "2513d1e0-610f-4405-aca2-679e3b86191d": {
+  "avg_hr": 109,
+  "date": "2026-09-19",
+  "id": "2513d1e0-610f-4405-aca2-679e3b86191d",
+  "kcal": 281.0,
+  "max_hr": 164,
+  "minutes": 95,
+  "sport": "hiking-rucking",
+  "start": "17:52",
+  "strain": 8.8,
+  "zones_min": [
+   41,
+   46,
+   5,
+   3,
+   0,
+   0
+  ]
+ },
+ "2570946c-88af-45f1-a41f-69e38e7ea4ab": {
+  "date": "2026-05-25",
+  "id": "2570946c-88af-45f1-a41f-69e38e7ea4ab",
+  "kcal": 0.0,
+  "minutes": 7,
+  "sport": "stretching",
+  "start": "18:31"
+ },
+ "25ca2d81-309e-4d7e-ae28-a34f3b5c218b": {
+  "avg_hr": 111,
+  "date": "2026-08-18",
+  "id": "25ca2d81-309e-4d7e-ae28-a34f3b5c218b",
+  "kcal": 93.0,
+  "max_hr": 148,
+  "minutes": 33,
+  "sport": "walking",
+  "start": "18:55",
+  "strain": 5.4,
+  "zones_min": [
+   10,
+   23,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "262842ff-c918-4ad5-841b-87b8bfcec9f9": {
+  "avg_hr": 113,
+  "date": "2026-07-08",
+  "id": "262842ff-c918-4ad5-841b-87b8bfcec9f9",
+  "kcal": 34.0,
+  "max_hr": 131,
+  "minutes": 13,
+  "sport": "walking",
+  "start": "22:03",
+  "strain": 4.5,
+  "zones_min": [
+   3,
+   10,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "2708e62f-1a9a-41aa-92df-678ec820f486": {
+  "avg_hr": 137,
+  "date": "2026-07-13",
+  "id": "2708e62f-1a9a-41aa-92df-678ec820f486",
+  "kcal": 351.0,
+  "max_hr": 188,
+  "minutes": 58,
+  "sport": "activity",
+  "start": "23:15",
+  "strain": 11.7,
+  "zones_min": [
+   4,
+   23,
+   18,
+   8,
+   4,
+   1
+  ]
+ },
+ "297c386f-b0b5-45b9-8ccc-17e1b6b441df": {
+  "avg_hr": 118,
+  "date": "2026-08-29",
+  "id": "297c386f-b0b5-45b9-8ccc-17e1b6b441df",
+  "kcal": 61.0,
+  "max_hr": 144,
+  "minutes": 18,
+  "sport": "activity",
+  "start": "20:05",
+  "strain": 5.0,
+  "zones_min": [
+   4,
+   13,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "29897121-3e52-440a-8e4e-69151a8ec50b": {
+  "avg_hr": 114,
+  "date": "2026-09-18",
+  "id": "29897121-3e52-440a-8e4e-69151a8ec50b",
+  "kcal": 100.0,
+  "max_hr": 145,
+  "minutes": 28,
+  "sport": "walking",
+  "start": "20:04",
+  "strain": 5.7,
+  "zones_min": [
+   6,
+   21,
+   1,
+   0,
+   0,
+   0
+  ]
+ },
+ "29f90a26-e091-4cc1-8cd0-8d356010ef20": {
+  "avg_hr": 109,
+  "date": "2026-07-04",
+  "id": "29f90a26-e091-4cc1-8cd0-8d356010ef20",
+  "kcal": 34.0,
+  "max_hr": 132,
+  "minutes": 15,
+  "sport": "activity",
+  "start": "12:24",
+  "strain": 4.4,
+  "zones_min": [
+   7,
+   8,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "2a23ee97-872c-4e50-a4a4-c996cd5278b4": {
+  "avg_hr": 138,
+  "date": "2026-09-11",
+  "id": "2a23ee97-872c-4e50-a4a4-c996cd5278b4",
+  "kcal": 1364.0,
+  "max_hr": 176,
+  "minutes": 197,
+  "sport": "dance",
+  "start": "21:00",
+  "strain": 18.1,
+  "zones_min": [
+   2,
+   71,
+   85,
+   33,
+   5,
+   0
+  ]
+ },
+ "2c564b08-7aa4-40c8-9356-d0a5e991ae23": {
+  "avg_hr": 101,
+  "date": "2026-08-16",
+  "id": "2c564b08-7aa4-40c8-9356-d0a5e991ae23",
+  "kcal": 56.0,
+  "max_hr": 148,
+  "minutes": 34,
+  "sport": "walking",
+  "start": "16:51",
+  "strain": 4.7,
+  "zones_min": [
+   28,
+   5,
+   1,
+   0,
+   0,
+   0
+  ]
+ },
+ "2c838d02-0566-49d2-948c-e95de3a750fd": {
+  "avg_hr": 108,
+  "date": "2026-07-08",
+  "id": "2c838d02-0566-49d2-948c-e95de3a750fd",
+  "kcal": 161.0,
+  "max_hr": 139,
+  "minutes": 73,
+  "sport": "walking",
+  "start": "16:55",
+  "strain": 6.2,
+  "zones_min": [
+   36,
+   37,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "2cebfaca-97ce-4b57-913b-67aa06f4b837": {
+  "avg_hr": 127,
+  "date": "2026-06-20",
+  "id": "2cebfaca-97ce-4b57-913b-67aa06f4b837",
+  "kcal": 327.0,
+  "max_hr": 166,
+  "minutes": 68,
+  "sport": "weightlifting",
+  "start": "11:17",
+  "strain": 13.6,
+  "zones_min": [
+   8,
+   43,
+   11,
+   7,
+   0,
+   0
+  ]
+ },
+ "2d0a38ed-3738-404b-b984-0906e4d23009": {
+  "avg_hr": 101,
+  "date": "2026-08-22",
+  "id": "2d0a38ed-3738-404b-b984-0906e4d23009",
+  "kcal": 52.0,
+  "max_hr": 128,
+  "minutes": 34,
+  "sport": "walking",
+  "start": "22:29",
+  "strain": 4.6,
+  "zones_min": [
+   28,
+   6,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "2e02f49e-be7e-43a0-8229-65a4fb68966c": {
+  "avg_hr": 105,
+  "date": "2026-09-06",
+  "id": "2e02f49e-be7e-43a0-8229-65a4fb68966c",
+  "kcal": 36.0,
+  "max_hr": 138,
+  "minutes": 22,
+  "sport": "activity",
+  "start": "17:11",
+  "strain": 4.5,
+  "zones_min": [
+   15,
+   7,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "2e650201-d165-47ed-b717-be578b62d2cd": {
+  "avg_hr": 106,
+  "date": "2026-08-12",
+  "id": "2e650201-d165-47ed-b717-be578b62d2cd",
+  "kcal": 44.0,
+  "max_hr": 136,
+  "minutes": 20,
+  "sport": "walking",
+  "start": "22:25",
+  "strain": 4.6,
+  "zones_min": [
+   10,
+   10,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "2ed0e81f-3577-43f2-9d68-35011bae5bcf": {
+  "avg_hr": 101,
+  "date": "2026-07-05",
+  "id": "2ed0e81f-3577-43f2-9d68-35011bae5bcf",
+  "kcal": 16.0,
+  "max_hr": 128,
+  "minutes": 12,
+  "sport": "walking",
+  "start": "19:42",
+  "strain": 4.1,
+  "zones_min": [
+   10,
+   2,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "2f16ae5d-031a-438e-8b66-25ba2f653462": {
+  "avg_hr": 113,
+  "date": "2026-06-16",
+  "id": "2f16ae5d-031a-438e-8b66-25ba2f653462",
+  "kcal": 40.0,
+  "max_hr": 149,
+  "minutes": 14,
+  "sport": "hiking-rucking",
+  "start": "20:53",
+  "strain": 4.6,
+  "zones_min": [
+   5,
+   9,
+   1,
+   0,
+   0,
+   0
+  ]
+ },
+ "2fa2a64f-4e8b-4afc-b93c-6fd348c74f44": {
+  "avg_hr": 108,
+  "date": "2026-06-28",
+  "id": "2fa2a64f-4e8b-4afc-b93c-6fd348c74f44",
+  "kcal": 28.0,
+  "max_hr": 128,
+  "minutes": 12,
+  "sport": "walking",
+  "start": "15:33",
+  "strain": 4.4,
+  "zones_min": [
+   6,
+   6,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "301d4d6c-dc57-4f50-8db2-fb20e850a21e": {
+  "avg_hr": 110,
+  "date": "2026-09-06",
+  "id": "301d4d6c-dc57-4f50-8db2-fb20e850a21e",
+  "kcal": 46.0,
+  "max_hr": 142,
+  "minutes": 20,
+  "sport": "walking",
+  "start": "20:23",
+  "strain": 4.7,
+  "zones_min": [
+   10,
+   10,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "3094c61b-9a55-4816-b69c-fccb1fb4a703": {
+  "avg_hr": 103,
+  "date": "2026-06-06",
+  "id": "3094c61b-9a55-4816-b69c-fccb1fb4a703",
+  "kcal": 25.0,
+  "max_hr": 140,
+  "minutes": 19,
+  "sport": "dance",
+  "start": "22:48",
+  "strain": 4.2,
+  "zones_min": [
+   14,
+   4,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "30bdf29a-085a-47d1-a7fe-5936566e7c44": {
+  "avg_hr": 115,
+  "date": "2026-04-26",
+  "id": "30bdf29a-085a-47d1-a7fe-5936566e7c44",
+  "kcal": 129.0,
+  "max_hr": 141,
+  "minutes": 37,
+  "sport": "activity",
+  "start": "21:40",
+  "strain": 6.0,
+  "zones_min": [
+   9,
+   29,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "30d8acb6-e83a-4442-bfbc-3bbc571a847f": {
+  "avg_hr": 105,
+  "date": "2026-09-27",
+  "id": "30d8acb6-e83a-4442-bfbc-3bbc571a847f",
+  "kcal": 68.0,
+  "max_hr": 137,
+  "minutes": 35,
+  "sport": "walking",
+  "start": "19:04",
+  "strain": 5.0,
+  "zones_min": [
+   24,
+   11,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "330ae6f5-bbfe-4b55-9d08-4e5cdfeb4b70": {
+  "avg_hr": 133,
+  "date": "2026-04-15",
+  "id": "330ae6f5-bbfe-4b55-9d08-4e5cdfeb4b70",
+  "kcal": 81.0,
+  "max_hr": 154,
+  "minutes": 13,
+  "sport": "walking",
+  "start": "14:18",
+  "strain": 5.8,
+  "zones_min": [
+   0,
+   10,
+   3,
+   0,
+   0,
+   0
+  ]
+ },
+ "33353258-f88a-4fce-baf4-5de6dc374299": {
+  "avg_hr": 115,
+  "date": "2026-04-05",
+  "id": "33353258-f88a-4fce-baf4-5de6dc374299",
+  "kcal": 203.0,
+  "max_hr": 162,
+  "minutes": 63,
+  "sport": "tennis",
+  "start": "08:00",
+  "strain": 7.4,
+  "zones_min": [
+   25,
+   32,
+   5,
+   0,
+   0,
+   0
+  ]
+ },
+ "335643ea-104d-459d-b9d5-802206e10d5d": {
+  "avg_hr": 108,
+  "date": "2026-05-05",
+  "id": "335643ea-104d-459d-b9d5-802206e10d5d",
+  "kcal": 50.0,
+  "max_hr": 152,
+  "minutes": 18,
+  "sport": "walking",
+  "start": "18:31",
+  "strain": 4.8,
+  "zones_min": [
+   10,
+   7,
+   2,
+   0,
+   0,
+   0
+  ]
+ },
+ "338970da-04b9-4fae-9a3f-81016a4dd5ea": {
+  "avg_hr": 121,
+  "date": "2026-04-10",
+  "id": "338970da-04b9-4fae-9a3f-81016a4dd5ea",
+  "kcal": 262.0,
+  "max_hr": 167,
+  "minutes": 61,
+  "sport": "weightlifting",
+  "start": "16:30",
+  "strain": 13.2,
+  "zones_min": [
+   16,
+   36,
+   7,
+   2,
+   0,
+   0
+  ]
+ },
+ "339e2560-d67d-4983-b767-02bbad4be898": {
+  "avg_hr": 96,
+  "date": "2026-09-26",
+  "id": "339e2560-d67d-4983-b767-02bbad4be898",
+  "kcal": 13.0,
+  "max_hr": 125,
+  "minutes": 12,
+  "sport": "walking",
+  "start": "21:50",
+  "strain": 4.0,
+  "zones_min": [
+   11,
+   1,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "33cf6e02-ee49-410d-b023-e20cace57702": {
+  "avg_hr": 97,
+  "date": "2026-06-08",
+  "id": "33cf6e02-ee49-410d-b023-e20cace57702",
+  "kcal": 26.0,
+  "max_hr": 132,
+  "minutes": 22,
+  "sport": "walking",
+  "start": "19:27",
+  "strain": 4.1,
+  "zones_min": [
+   19,
+   3,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "35c34b66-16bb-48c8-8039-ae367777ea9a": {
+  "avg_hr": 97,
+  "date": "2026-08-07",
+  "id": "35c34b66-16bb-48c8-8039-ae367777ea9a",
+  "kcal": 20.0,
+  "max_hr": 117,
+  "minutes": 15,
+  "sport": "walking",
+  "start": "14:14",
+  "strain": 4.2,
+  "zones_min": [
+   15,
+   0,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "37487d4e-2c87-4e39-9401-5105cb65954a": {
+  "avg_hr": 125,
+  "date": "2026-04-03",
+  "id": "37487d4e-2c87-4e39-9401-5105cb65954a",
+  "kcal": 282.0,
+  "max_hr": 164,
+  "minutes": 64,
+  "sport": "weightlifting",
+  "start": "16:09",
+  "strain": 13.3,
+  "zones_min": [
+   12,
+   36,
+   13,
+   3,
+   0,
+   0
+  ]
+ },
+ "37ca1678-b8c8-4920-b189-f59e872c68d1": {
+  "avg_hr": 129,
+  "date": "2026-06-15",
+  "id": "37ca1678-b8c8-4920-b189-f59e872c68d1",
+  "kcal": 324.0,
+  "max_hr": 162,
+  "minutes": 65,
+  "sport": "weightlifting",
+  "start": "18:29",
+  "strain": 13.6,
+  "zones_min": [
+   5,
+   39,
+   18,
+   3,
+   0,
+   0
+  ]
+ },
+ "380cedad-745f-4ce9-a406-c38f423763a8": {
+  "avg_hr": 124,
+  "date": "2026-09-11",
+  "id": "380cedad-745f-4ce9-a406-c38f423763a8",
+  "kcal": 92.0,
+  "max_hr": 145,
+  "minutes": 19,
+  "sport": "walking",
+  "start": "12:36",
+  "strain": 5.7,
+  "zones_min": [
+   0,
+   16,
+   3,
+   0,
+   0,
+   0
+  ]
+ },
+ "389fd409-b9c2-4574-bea0-7bfbfa440d4e": {
+  "avg_hr": 142,
+  "date": "2026-05-26",
+  "id": "389fd409-b9c2-4574-bea0-7bfbfa440d4e",
+  "kcal": 457.0,
+  "max_hr": 168,
+  "minutes": 62,
+  "sport": "tennis",
+  "start": "20:59",
+  "strain": 13.2,
+  "zones_min": [
+   2,
+   12,
+   24,
+   23,
+   0,
+   0
+  ]
+ },
+ "38cc7cdf-7e7d-4e13-93ba-7557540dd7b0": {
+  "avg_hr": 102,
+  "date": "2026-07-04",
+  "id": "38cc7cdf-7e7d-4e13-93ba-7557540dd7b0",
+  "kcal": 85.0,
+  "max_hr": 134,
+  "minutes": 50,
+  "sport": "walking",
+  "start": "22:46",
+  "strain": 5.2,
+  "zones_min": [
+   37,
+   13,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "393ac810-9094-494b-b278-fc36fe6293d7": {
+  "avg_hr": 98,
+  "date": "2026-07-06",
+  "id": "393ac810-9094-494b-b278-fc36fe6293d7",
+  "kcal": 45.0,
+  "max_hr": 125,
+  "minutes": 38,
+  "sport": "walking",
+  "start": "17:22",
+  "strain": 4.4,
+  "zones_min": [
+   36,
+   2,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "394ed4bd-cce0-4161-a268-95d3b373ebd4": {
+  "avg_hr": 106,
+  "date": "2026-05-22",
+  "id": "394ed4bd-cce0-4161-a268-95d3b373ebd4",
+  "kcal": 47.0,
+  "max_hr": 142,
+  "minutes": 23,
+  "sport": "dance",
+  "start": "23:40",
+  "strain": 4.7,
+  "zones_min": [
+   17,
+   5,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "399536c7-e93d-435f-8a38-97a3cf011d4f": {
+  "avg_hr": 113,
+  "date": "2026-04-24",
+  "id": "399536c7-e93d-435f-8a38-97a3cf011d4f",
+  "kcal": 208.0,
+  "max_hr": 165,
+  "minutes": 67,
+  "sport": "weightlifting",
+  "start": "16:08",
+  "strain": 12.7,
+  "zones_min": [
+   26,
+   32,
+   6,
+   3,
+   0,
+   0
+  ]
+ },
+ "39a8c35e-09bf-4433-b414-90d9d618e330": {
+  "date": "2026-05-15",
+  "id": "39a8c35e-09bf-4433-b414-90d9d618e330",
+  "kcal": 0.0,
+  "minutes": 6,
+  "sport": "stretching",
+  "start": "17:32"
+ },
+ "39a8ef1a-e891-4a74-b8e6-18ea8c43000d": {
+  "avg_hr": 98,
+  "date": "2026-06-08",
+  "id": "39a8ef1a-e891-4a74-b8e6-18ea8c43000d",
+  "kcal": 26.0,
+  "max_hr": 120,
+  "minutes": 23,
+  "sport": "walking",
+  "start": "15:34",
+  "strain": 4.1,
+  "zones_min": [
+   20,
+   3,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "3a78a0a4-ef5a-42b6-bb9e-8a7ae9c30dfd": {
+  "avg_hr": 114,
+  "date": "2026-05-17",
+  "id": "3a78a0a4-ef5a-42b6-bb9e-8a7ae9c30dfd",
+  "kcal": 61.0,
+  "max_hr": 152,
+  "minutes": 19,
+  "sport": "walking",
+  "start": "17:49",
+  "strain": 5.0,
+  "zones_min": [
+   7,
+   10,
+   1,
+   0,
+   0,
+   0
+  ]
+ },
+ "3ac2db5a-a690-4a07-952e-272edd3df388": {
+  "avg_hr": 122,
+  "date": "2026-04-20",
+  "id": "3ac2db5a-a690-4a07-952e-272edd3df388",
+  "kcal": 292.0,
+  "max_hr": 164,
+  "minutes": 67,
+  "sport": "weightlifting",
+  "start": "16:32",
+  "strain": 13.4,
+  "zones_min": [
+   13,
+   34,
+   16,
+   5,
+   0,
+   0
+  ]
+ },
+ "3b93cca9-e40f-4d1b-8d10-c980f1aee933": {
+  "avg_hr": 112,
+  "date": "2026-08-15",
+  "id": "3b93cca9-e40f-4d1b-8d10-c980f1aee933",
+  "kcal": 53.0,
+  "max_hr": 139,
+  "minutes": 18,
+  "sport": "walking",
+  "start": "19:09",
+  "strain": 4.8,
+  "zones_min": [
+   4,
+   14,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "3ba591d8-4b9f-4377-b5f8-a5236f67ad03": {
+  "avg_hr": 106,
+  "date": "2026-08-26",
+  "id": "3ba591d8-4b9f-4377-b5f8-a5236f67ad03",
+  "kcal": 62.0,
+  "max_hr": 141,
+  "minutes": 31,
+  "sport": "walking",
+  "start": "22:46",
+  "strain": 4.9,
+  "zones_min": [
+   22,
+   8,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "3c15f5be-3e83-448c-9e21-8614c1e2c766": {
+  "avg_hr": 106,
+  "date": "2026-04-09",
+  "id": "3c15f5be-3e83-448c-9e21-8614c1e2c766",
+  "kcal": 86.0,
+  "max_hr": 152,
+  "minutes": 36,
+  "sport": "bouldering",
+  "start": "20:10",
+  "strain": 5.3,
+  "zones_min": [
+   23,
+   12,
+   1,
+   0,
+   0,
+   0
+  ]
+ },
+ "3c43f03a-d36b-4cb9-8f37-a6179bcbab90": {
+  "avg_hr": 108,
+  "date": "2026-05-26",
+  "id": "3c43f03a-d36b-4cb9-8f37-a6179bcbab90",
+  "kcal": 56.0,
+  "max_hr": 131,
+  "minutes": 24,
+  "sport": "walking",
+  "start": "22:57",
+  "strain": 4.8,
+  "zones_min": [
+   14,
+   10,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "3e1a58dd-3a31-46a0-a645-06b21d5cb399": {
+  "avg_hr": 138,
+  "date": "2026-06-23",
+  "id": "3e1a58dd-3a31-46a0-a645-06b21d5cb399",
+  "kcal": 517.0,
+  "max_hr": 184,
+  "minutes": 77,
+  "sport": "tennis",
+  "start": "07:48",
+  "strain": 14.4,
+  "zones_min": [
+   14,
+   15,
+   20,
+   16,
+   10,
+   2
+  ]
+ },
+ "3f188c30-5cef-4d76-ba39-9da1fc016772": {
+  "avg_hr": 109,
+  "date": "2026-04-19",
+  "id": "3f188c30-5cef-4d76-ba39-9da1fc016772",
+  "kcal": 90.0,
+  "max_hr": 145,
+  "minutes": 33,
+  "sport": "pilates",
+  "start": "10:00",
+  "strain": 7.7,
+  "zones_min": [
+   15,
+   18,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "3f4213ae-616e-43c3-80ba-106fec78bbe8": {
+  "avg_hr": 117,
+  "date": "2026-07-17",
+  "id": "3f4213ae-616e-43c3-80ba-106fec78bbe8",
+  "kcal": 41.0,
+  "max_hr": 133,
+  "minutes": 14,
+  "sport": "walking",
+  "start": "20:43",
+  "strain": 4.6,
+  "zones_min": [
+   3,
+   11,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "3f870144-7077-4fb5-a950-0b778db17560": {
+  "avg_hr": 110,
+  "date": "2026-07-16",
+  "id": "3f870144-7077-4fb5-a950-0b778db17560",
+  "kcal": 24.0,
+  "max_hr": 132,
+  "minutes": 13,
+  "sport": "walking",
+  "start": "23:24",
+  "strain": 4.4,
+  "zones_min": [
+   8,
+   5,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "3f8846ee-c490-448d-9ecf-3300c484a398": {
+  "avg_hr": 118,
+  "date": "2026-08-27",
+  "id": "3f8846ee-c490-448d-9ecf-3300c484a398",
+  "kcal": 66.0,
+  "max_hr": 151,
+  "minutes": 18,
+  "sport": "dance",
+  "start": "01:32",
+  "strain": 5.2,
+  "zones_min": [
+   5,
+   10,
+   2,
+   0,
+   0,
+   0
+  ]
+ },
+ "3fb5edfe-d60f-454f-a4a3-ca758455205c": {
+  "avg_hr": 120,
+  "date": "2026-09-19",
+  "id": "3fb5edfe-d60f-454f-a4a3-ca758455205c",
+  "kcal": 80.0,
+  "max_hr": 134,
+  "minutes": 18,
+  "sport": "walking",
+  "start": "11:23",
+  "strain": 5.3,
+  "zones_min": [
+   0,
+   18,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "3fd759b9-ce33-4291-9b88-e5247bf787c1": {
+  "avg_hr": 130,
+  "date": "2026-05-22",
+  "id": "3fd759b9-ce33-4291-9b88-e5247bf787c1",
+  "kcal": 372.0,
+  "max_hr": 164,
+  "minutes": 67,
+  "sport": "weightlifting",
+  "start": "08:16",
+  "strain": 14.1,
+  "zones_min": [
+   4,
+   35,
+   21,
+   7,
+   0,
+   0
+  ]
+ },
+ "40951bbc-dbdc-463f-b934-ba05cb75efd1": {
+  "avg_hr": 96,
+  "date": "2026-09-19",
+  "id": "40951bbc-dbdc-463f-b934-ba05cb75efd1",
+  "kcal": 17.0,
+  "max_hr": 118,
+  "minutes": 15,
+  "sport": "walking",
+  "start": "12:04",
+  "strain": 4.1,
+  "zones_min": [
+   15,
+   0,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "4099fc10-b348-4fe0-b5e4-002a3444da2a": {
+  "avg_hr": 97,
+  "date": "2026-06-07",
+  "id": "4099fc10-b348-4fe0-b5e4-002a3444da2a",
+  "kcal": 25.0,
+  "max_hr": 121,
+  "minutes": 21,
+  "sport": "walking",
+  "start": "13:37",
+  "strain": 4.1,
+  "zones_min": [
+   18,
+   3,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "413c5743-f38e-48ca-91e1-07c5f702a625": {
+  "avg_hr": 117,
+  "date": "2026-09-10",
+  "id": "413c5743-f38e-48ca-91e1-07c5f702a625",
+  "kcal": 49.0,
+  "max_hr": 145,
+  "minutes": 13,
+  "sport": "walking",
+  "start": "22:50",
+  "strain": 4.8,
+  "zones_min": [
+   1,
+   12,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "41564c34-6e90-4157-a920-16a2e67eae21": {
+  "avg_hr": 124,
+  "date": "2026-09-26",
+  "id": "41564c34-6e90-4157-a920-16a2e67eae21",
+  "kcal": 273.0,
+  "max_hr": 172,
+  "minutes": 59,
+  "sport": "weightlifting",
+  "start": "12:54",
+  "strain": 13.3,
+  "zones_min": [
+   8,
+   35,
+   12,
+   4,
+   0,
+   0
+  ]
+ },
+ "41fa282d-1e14-4b60-88a0-8360801a19bf": {
+  "avg_hr": 109,
+  "date": "2026-04-05",
+  "id": "41fa282d-1e14-4b60-88a0-8360801a19bf",
+  "kcal": 49.0,
+  "max_hr": 148,
+  "minutes": 20,
+  "sport": "activity",
+  "start": "18:52",
+  "strain": 4.7,
+  "zones_min": [
+   11,
+   8,
+   1,
+   0,
+   0,
+   0
+  ]
+ },
+ "437f5053-8706-40f8-8df0-b2a66427f18c": {
+  "avg_hr": 117,
+  "date": "2026-08-30",
+  "id": "437f5053-8706-40f8-8df0-b2a66427f18c",
+  "kcal": 62.0,
+  "max_hr": 138,
+  "minutes": 19,
+  "sport": "walking",
+  "start": "22:47",
+  "strain": 5.0,
+  "zones_min": [
+   3,
+   16,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "43859f3e-80f3-4f22-b04c-630ca3b4a515": {
+  "avg_hr": 115,
+  "date": "2026-08-10",
+  "id": "43859f3e-80f3-4f22-b04c-630ca3b4a515",
+  "kcal": 41.0,
+  "max_hr": 137,
+  "minutes": 12,
+  "sport": "walking",
+  "start": "17:12",
+  "strain": 4.6,
+  "zones_min": [
+   3,
+   9,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "44a37bf5-18b4-4f28-ab1f-37e7c967250c": {
+  "avg_hr": 105,
+  "date": "2026-08-14",
+  "id": "44a37bf5-18b4-4f28-ab1f-37e7c967250c",
+  "kcal": 27.0,
+  "max_hr": 136,
+  "minutes": 13,
+  "sport": "walking",
+  "start": "21:07",
+  "strain": 4.4,
+  "zones_min": [
+   9,
+   4,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "47394b1c-72e5-4fdc-a2e1-c8a122533ac1": {
+  "avg_hr": 106,
+  "date": "2026-04-25",
+  "id": "47394b1c-72e5-4fdc-a2e1-c8a122533ac1",
+  "kcal": 30.0,
+  "max_hr": 122,
+  "minutes": 15,
+  "sport": "walking",
+  "start": "14:39",
+  "strain": 4.5,
+  "zones_min": [
+   10,
+   5,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "48505592-db9f-401a-923c-2cc36f2db744": {
+  "avg_hr": 124,
+  "date": "2026-09-14",
+  "id": "48505592-db9f-401a-923c-2cc36f2db744",
+  "kcal": 283.0,
+  "max_hr": 174,
+  "minutes": 58,
+  "sport": "weightlifting",
+  "start": "19:26",
+  "strain": 13.4,
+  "zones_min": [
+   6,
+   35,
+   11,
+   4,
+   1,
+   0
+  ]
+ },
+ "4855c003-01b4-4598-a5cc-da0904be157a": {
+  "avg_hr": 119,
+  "date": "2026-09-29",
+  "id": "4855c003-01b4-4598-a5cc-da0904be157a",
+  "kcal": 257.0,
+  "max_hr": 166,
+  "minutes": 63,
+  "sport": "weightlifting",
+  "start": "17:55",
+  "strain": 13.1,
+  "zones_min": [
+   12,
+   39,
+   10,
+   3,
+   0,
+   0
+  ]
+ },
+ "48b35ea3-1f51-4580-aa81-fa8001511ddc": {
+  "avg_hr": 144,
+  "date": "2026-09-20",
+  "id": "48b35ea3-1f51-4580-aa81-fa8001511ddc",
+  "kcal": 536.0,
+  "max_hr": 186,
+  "minutes": 69,
+  "sport": "tennis",
+  "start": "08:56",
+  "strain": 15.2,
+  "zones_min": [
+   5,
+   16,
+   15,
+   14,
+   17,
+   3
+  ]
+ },
+ "4a1a3b3f-9eee-4968-bc0f-d148ff8004c0": {
+  "avg_hr": 131,
+  "date": "2026-04-18",
+  "id": "4a1a3b3f-9eee-4968-bc0f-d148ff8004c0",
+  "kcal": 77.0,
+  "max_hr": 147,
+  "minutes": 13,
+  "sport": "activity",
+  "start": "17:09",
+  "strain": 5.5,
+  "zones_min": [
+   0,
+   11,
+   2,
+   0,
+   0,
+   0
+  ]
+ },
+ "4a2f60a0-d323-4b6c-a28c-49e1bba3a17b": {
+  "avg_hr": 118,
+  "date": "2026-04-26",
+  "id": "4a2f60a0-d323-4b6c-a28c-49e1bba3a17b",
+  "kcal": 195.0,
+  "max_hr": 163,
+  "minutes": 51,
+  "sport": "walking",
+  "start": "13:13",
+  "strain": 7.8,
+  "zones_min": [
+   14,
+   27,
+   6,
+   4,
+   0,
+   0
+  ]
+ },
+ "4a6991f8-dd84-4263-806f-e9b1413aafd3": {
+  "avg_hr": 109,
+  "date": "2026-08-07",
+  "id": "4a6991f8-dd84-4263-806f-e9b1413aafd3",
+  "kcal": 34.0,
+  "max_hr": 146,
+  "minutes": 13,
+  "sport": "walking",
+  "start": "03:59",
+  "strain": 4.5,
+  "zones_min": [
+   7,
+   6,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "4b919bc5-15ff-4872-b89b-fd579d27b046": {
+  "avg_hr": 97,
+  "date": "2026-06-27",
+  "id": "4b919bc5-15ff-4872-b89b-fd579d27b046",
+  "kcal": 107.0,
+  "max_hr": 148,
+  "minutes": 78,
+  "sport": "activity",
+  "start": "14:21",
+  "strain": 5.0,
+  "zones_min": [
+   66,
+   11,
+   1,
+   0,
+   0,
+   0
+  ]
+ },
+ "4c971d29-ab12-4c78-86ac-85e191ce36ec": {
+  "avg_hr": 102,
+  "date": "2026-06-07",
+  "id": "4c971d29-ab12-4c78-86ac-85e191ce36ec",
+  "kcal": 58.0,
+  "max_hr": 129,
+  "minutes": 48,
+  "sport": "walking",
+  "start": "19:07",
+  "strain": 4.6,
+  "zones_min": [
+   40,
+   8,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "4cff3255-667b-405b-bbe5-58a8a7d2d7eb": {
+  "avg_hr": 126,
+  "date": "2026-08-21",
+  "id": "4cff3255-667b-405b-bbe5-58a8a7d2d7eb",
+  "kcal": 83.0,
+  "max_hr": 160,
+  "minutes": 17,
+  "sport": "swimming",
+  "start": "09:54",
+  "strain": 5.7,
+  "zones_min": [
+   1,
+   11,
+   4,
+   1,
+   0,
+   0
+  ]
+ },
+ "4d252404-7563-4f00-adf4-7b5c9865858b": {
+  "avg_hr": 112,
+  "date": "2026-04-05",
+  "id": "4d252404-7563-4f00-adf4-7b5c9865858b",
+  "kcal": 43.0,
+  "max_hr": 143,
+  "minutes": 17,
+  "sport": "tennis",
+  "start": "09:13",
+  "strain": 4.7,
+  "zones_min": [
+   9,
+   8,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "4e3d058a-cb2a-47cc-bf6d-21ab42ffd649": {
+  "avg_hr": 113,
+  "date": "2026-07-17",
+  "id": "4e3d058a-cb2a-47cc-bf6d-21ab42ffd649",
+  "kcal": 38.0,
+  "max_hr": 136,
+  "minutes": 16,
+  "sport": "walking",
+  "start": "23:32",
+  "strain": 4.6,
+  "zones_min": [
+   6,
+   10,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "4fe2e7bf-d276-4bcd-9f1f-d0cf0c9f5c1a": {
+  "avg_hr": 121,
+  "date": "2026-04-23",
+  "id": "4fe2e7bf-d276-4bcd-9f1f-d0cf0c9f5c1a",
+  "kcal": 270.0,
+  "max_hr": 152,
+  "minutes": 63,
+  "sport": "tennis",
+  "start": "07:58",
+  "strain": 8.8,
+  "zones_min": [
+   9,
+   41,
+   12,
+   0,
+   0,
+   0
+  ]
+ },
+ "506aa371-447e-4333-8741-5b85e317154d": {
+  "avg_hr": 149,
+  "date": "2026-06-02",
+  "id": "506aa371-447e-4333-8741-5b85e317154d",
+  "kcal": 564.0,
+  "max_hr": 185,
+  "minutes": 70,
+  "sport": "tennis",
+  "start": "18:56",
+  "strain": 15.1,
+  "zones_min": [
+   1,
+   10,
+   21,
+   21,
+   13,
+   3
+  ]
+ },
+ "5148f379-9b34-48af-8f61-d426b292d8f6": {
+  "avg_hr": 166,
+  "date": "2026-09-09",
+  "id": "5148f379-9b34-48af-8f61-d426b292d8f6",
+  "kcal": 217.0,
+  "max_hr": 176,
+  "minutes": 20,
+  "sport": "stairmaster",
+  "start": "18:44",
+  "strain": 12.4,
+  "zones_min": [
+   0,
+   0,
+   1,
+   3,
+   16,
+   0
+  ]
+ },
+ "52083485-9b25-4323-add4-b2c5f112f5a3": {
+  "avg_hr": 108,
+  "date": "2026-06-26",
+  "id": "52083485-9b25-4323-add4-b2c5f112f5a3",
+  "kcal": 31.0,
+  "max_hr": 131,
+  "minutes": 14,
+  "sport": "walking",
+  "start": "14:34",
+  "strain": 4.4,
+  "zones_min": [
+   8,
+   6,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "52d104c4-e4c1-44eb-9e27-89d2bfc52615": {
+  "avg_hr": 117,
+  "date": "2026-08-18",
+  "id": "52d104c4-e4c1-44eb-9e27-89d2bfc52615",
+  "kcal": 80.0,
+  "max_hr": 135,
+  "minutes": 22,
+  "sport": "walking",
+  "start": "19:40",
+  "strain": 5.3,
+  "zones_min": [
+   3,
+   19,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "52d55a8b-6bca-41af-8652-0b94a55282a4": {
+  "avg_hr": 113,
+  "date": "2026-05-02",
+  "id": "52d55a8b-6bca-41af-8652-0b94a55282a4",
+  "kcal": 54.0,
+  "max_hr": 166,
+  "minutes": 18,
+  "sport": "walking",
+  "start": "18:07",
+  "strain": 5.0,
+  "zones_min": [
+   7,
+   8,
+   1,
+   1,
+   0,
+   0
+  ]
+ },
+ "52f66b90-49a8-4fe6-9edb-55c5084b267d": {
+  "avg_hr": 99,
+  "date": "2026-08-08",
+  "id": "52f66b90-49a8-4fe6-9edb-55c5084b267d",
+  "kcal": 102.0,
+  "max_hr": 133,
+  "minutes": 64,
+  "sport": "walking",
+  "start": "15:24",
+  "strain": 5.2,
+  "zones_min": [
+   58,
+   6,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "5313b451-ce42-4390-b9b9-fc7dd253cb74": {
+  "avg_hr": 111,
+  "date": "2026-05-05",
+  "id": "5313b451-ce42-4390-b9b9-fc7dd253cb74",
+  "kcal": 80.0,
+  "max_hr": 140,
+  "minutes": 30,
+  "sport": "walking",
+  "start": "10:25",
+  "strain": 5.2,
+  "zones_min": [
+   10,
+   20,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "5508b9f1-3182-4b2e-883b-57ff8709b3e4": {
+  "avg_hr": 123,
+  "date": "2026-08-19",
+  "id": "5508b9f1-3182-4b2e-883b-57ff8709b3e4",
+  "kcal": 85.0,
+  "max_hr": 157,
+  "minutes": 19,
+  "sport": "swimming",
+  "start": "09:17",
+  "strain": 5.7,
+  "zones_min": [
+   4,
+   10,
+   5,
+   0,
+   0,
+   0
+  ]
+ },
+ "552872e7-d993-4b39-932b-53b2ac545447": {
+  "avg_hr": 120,
+  "date": "2026-08-29",
+  "id": "552872e7-d993-4b39-932b-53b2ac545447",
+  "kcal": 66.0,
+  "max_hr": 142,
+  "minutes": 18,
+  "sport": "dance",
+  "start": "22:19",
+  "strain": 5.0,
+  "zones_min": [
+   2,
+   16,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "56ef2565-d344-430d-920f-ff8c9dee38a2": {
+  "avg_hr": 92,
+  "date": "2026-09-06",
+  "id": "56ef2565-d344-430d-920f-ff8c9dee38a2",
+  "kcal": 30.0,
+  "max_hr": 125,
+  "minutes": 28,
+  "sport": "walking",
+  "start": "23:11",
+  "strain": 4.1,
+  "zones_min": [
+   27,
+   1,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "572c147f-8586-45f0-becd-4a5165286ceb": {
+  "avg_hr": 126,
+  "date": "2026-08-31",
+  "id": "572c147f-8586-45f0-becd-4a5165286ceb",
+  "kcal": 105.0,
+  "max_hr": 147,
+  "minutes": 23,
+  "sport": "walking",
+  "start": "16:20",
+  "strain": 5.8,
+  "zones_min": [
+   1,
+   21,
+   1,
+   0,
+   0,
+   0
+  ]
+ },
+ "5aab5b98-6b20-4359-8f26-a724256874f1": {
+  "avg_hr": 126,
+  "date": "2026-05-15",
+  "id": "5aab5b98-6b20-4359-8f26-a724256874f1",
+  "kcal": 288.0,
+  "max_hr": 161,
+  "minutes": 60,
+  "sport": "weightlifting",
+  "start": "16:31",
+  "strain": 13.5,
+  "zones_min": [
+   9,
+   33,
+   16,
+   3,
+   0,
+   0
+  ]
+ },
+ "5b1689f5-7906-4861-a248-aa403c3eee0d": {
+  "avg_hr": 127,
+  "date": "2026-06-19",
+  "id": "5b1689f5-7906-4861-a248-aa403c3eee0d",
+  "kcal": 76.0,
+  "max_hr": 151,
+  "minutes": 16,
+  "sport": "yoga",
+  "start": "22:20",
+  "strain": 5.4,
+  "zones_min": [
+   0,
+   14,
+   2,
+   0,
+   0,
+   0
+  ]
+ },
+ "5bb70b98-3c1a-48cb-badc-a998d4cf4c59": {
+  "avg_hr": 97,
+  "date": "2026-07-30",
+  "id": "5bb70b98-3c1a-48cb-badc-a998d4cf4c59",
+  "kcal": 32.0,
+  "max_hr": 128,
+  "minutes": 20,
+  "sport": "walking",
+  "start": "23:01",
+  "strain": 4.3,
+  "zones_min": [
+   17,
+   3,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "5c838bcb-23fe-4ddd-bfcd-050cf9fe73c6": {
+  "avg_hr": 123,
+  "date": "2026-07-20",
+  "id": "5c838bcb-23fe-4ddd-bfcd-050cf9fe73c6",
+  "kcal": 240.0,
+  "max_hr": 163,
+  "minutes": 60,
+  "sport": "weightlifting",
+  "start": "18:33",
+  "strain": 13.0,
+  "zones_min": [
+   14,
+   31,
+   13,
+   3,
+   0,
+   0
+  ]
+ },
+ "5d7c58dd-071f-4192-beca-ff4275a5d573": {
+  "avg_hr": 163,
+  "date": "2026-07-02",
+  "id": "5d7c58dd-071f-4192-beca-ff4275a5d573",
+  "kcal": 617.0,
+  "max_hr": 191,
+  "minutes": 60,
+  "sport": "tennis",
+  "start": "08:02",
+  "strain": 17.1,
+  "zones_min": [
+   0,
+   2,
+   8,
+   17,
+   21,
+   13
+  ]
+ },
+ "5e05d479-4b62-45a4-8329-a283e5b2de2f": {
+  "avg_hr": 96,
+  "date": "2026-09-20",
+  "id": "5e05d479-4b62-45a4-8329-a283e5b2de2f",
+  "kcal": 33.0,
+  "max_hr": 120,
+  "minutes": 22,
+  "sport": "activity",
+  "start": "18:20",
+  "strain": 4.3,
+  "zones_min": [
+   17,
+   5,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "5e1f1552-b6ec-4e68-942e-a53918ac0a55": {
+  "avg_hr": 109,
+  "date": "2026-08-08",
+  "id": "5e1f1552-b6ec-4e68-942e-a53918ac0a55",
+  "kcal": 108.0,
+  "max_hr": 147,
+  "minutes": 41,
+  "sport": "walking",
+  "start": "14:21",
+  "strain": 5.7,
+  "zones_min": [
+   24,
+   16,
+   1,
+   0,
+   0,
+   0
+  ]
+ },
+ "5ed9b8a2-add4-4b2b-85f2-5620b16b3245": {
+  "avg_hr": 104,
+  "date": "2026-05-21",
+  "id": "5ed9b8a2-add4-4b2b-85f2-5620b16b3245",
+  "kcal": 29.0,
+  "max_hr": 125,
+  "minutes": 17,
+  "sport": "walking",
+  "start": "17:00",
+  "strain": 4.4,
+  "zones_min": [
+   13,
+   4,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "5f0c6085-4da0-47b9-9a7e-d452d0f501ef": {
+  "avg_hr": 128,
+  "date": "2026-04-13",
+  "id": "5f0c6085-4da0-47b9-9a7e-d452d0f501ef",
+  "kcal": 289.0,
+  "max_hr": 167,
+  "minutes": 55,
+  "sport": "weightlifting",
+  "start": "16:32",
+  "strain": 13.3,
+  "zones_min": [
+   5,
+   36,
+   11,
+   3,
+   0,
+   0
+  ]
+ },
+ "611bc890-9a24-455a-8977-65cb4a54e3e2": {
+  "avg_hr": 126,
+  "date": "2026-07-08",
+  "id": "611bc890-9a24-455a-8977-65cb4a54e3e2",
+  "kcal": 141.0,
+  "max_hr": 168,
+  "minutes": 31,
+  "sport": "walking",
+  "start": "20:54",
+  "strain": 6.7,
+  "zones_min": [
+   3,
+   20,
+   7,
+   1,
+   0,
+   0
+  ]
+ },
+ "616e8fff-7358-4646-aa48-8e60ddeafa75": {
+  "avg_hr": 123,
+  "date": "2026-08-18",
+  "id": "616e8fff-7358-4646-aa48-8e60ddeafa75",
+  "kcal": 66.0,
+  "max_hr": 156,
+  "minutes": 15,
+  "sport": "swimming",
+  "start": "09:37",
+  "strain": 5.3,
+  "zones_min": [
+   2,
+   9,
+   3,
+   1,
+   0,
+   0
+  ]
+ },
+ "617df01e-a58d-4f65-a3cb-6924db5cf015": {
+  "avg_hr": 137,
+  "date": "2026-07-23",
+  "id": "617df01e-a58d-4f65-a3cb-6924db5cf015",
+  "kcal": 596.0,
+  "max_hr": 185,
+  "minutes": 99,
+  "sport": "tennis",
+  "start": "20:00",
+  "strain": 14.0,
+  "zones_min": [
+   4,
+   51,
+   26,
+   10,
+   6,
+   2
+  ]
+ },
+ "64138d1c-d8a8-4eae-9fb7-a3a9a6170c33": {
+  "avg_hr": 111,
+  "date": "2026-07-19",
+  "id": "64138d1c-d8a8-4eae-9fb7-a3a9a6170c33",
+  "kcal": 49.0,
+  "max_hr": 142,
+  "minutes": 22,
+  "sport": "walking",
+  "start": "14:10",
+  "strain": 4.7,
+  "zones_min": [
+   11,
+   11,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "66060f6e-42e1-498e-844f-578eca67ea8c": {
+  "avg_hr": 115,
+  "date": "2026-05-27",
+  "id": "66060f6e-42e1-498e-844f-578eca67ea8c",
+  "kcal": 208.0,
+  "max_hr": 148,
+  "minutes": 61,
+  "sport": "weightlifting",
+  "start": "17:18",
+  "strain": 12.6,
+  "zones_min": [
+   14,
+   44,
+   2,
+   0,
+   0,
+   0
+  ]
+ },
+ "67347ce4-3729-4033-9760-d069be9d623c": {
+  "avg_hr": 115,
+  "date": "2026-06-22",
+  "id": "67347ce4-3729-4033-9760-d069be9d623c",
+  "kcal": 129.0,
+  "max_hr": 137,
+  "minutes": 44,
+  "sport": "walking",
+  "start": "22:42",
+  "strain": 6.1,
+  "zones_min": [
+   16,
+   28,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "68a118a5-b823-4022-97a9-15a615ada662": {
+  "avg_hr": 120,
+  "date": "2026-06-04",
+  "id": "68a118a5-b823-4022-97a9-15a615ada662",
+  "kcal": 264.0,
+  "max_hr": 165,
+  "minutes": 71,
+  "sport": "dance",
+  "start": "22:06",
+  "strain": 8.9,
+  "zones_min": [
+   17,
+   38,
+   11,
+   5,
+   0,
+   0
+  ]
+ },
+ "691ad447-b148-44d2-b874-fc7676f6ba18": {
+  "avg_hr": 92,
+  "date": "2026-08-01",
+  "id": "691ad447-b148-44d2-b874-fc7676f6ba18",
+  "kcal": 92.0,
+  "max_hr": 152,
+  "minutes": 64,
+  "sport": "hiking-rucking",
+  "start": "22:50",
+  "strain": 4.8,
+  "zones_min": [
+   57,
+   6,
+   1,
+   0,
+   0,
+   0
+  ]
+ },
+ "6a508f4e-0f1d-4384-b3f4-21f254c6e856": {
+  "avg_hr": 108,
+  "date": "2026-06-27",
+  "id": "6a508f4e-0f1d-4384-b3f4-21f254c6e856",
+  "kcal": 25.0,
+  "max_hr": 131,
+  "minutes": 12,
+  "sport": "walking",
+  "start": "17:04",
+  "strain": 4.3,
+  "zones_min": [
+   7,
+   5,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "6b36957c-79e3-42a9-b943-87584a6b6e45": {
+  "avg_hr": 108,
+  "date": "2026-08-13",
+  "id": "6b36957c-79e3-42a9-b943-87584a6b6e45",
+  "kcal": 31.0,
+  "max_hr": 132,
+  "minutes": 12,
+  "sport": "walking",
+  "start": "23:31",
+  "strain": 4.4,
+  "zones_min": [
+   5,
+   7,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "6b75b06a-bc81-41db-8ba0-f55876dace4b": {
+  "avg_hr": 101,
+  "date": "2026-05-27",
+  "id": "6b75b06a-bc81-41db-8ba0-f55876dace4b",
+  "kcal": 23.0,
+  "max_hr": 121,
+  "minutes": 15,
+  "sport": "walking",
+  "start": "21:33",
+  "strain": 4.2,
+  "zones_min": [
+   13,
+   2,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "6b81d508-090c-4e6a-b17a-4e62ce78ad92": {
+  "avg_hr": 100,
+  "date": "2026-09-16",
+  "id": "6b81d508-090c-4e6a-b17a-4e62ce78ad92",
+  "kcal": 76.0,
+  "max_hr": 124,
+  "minutes": 44,
+  "sport": "walking",
+  "start": "19:20",
+  "strain": 5.1,
+  "zones_min": [
+   35,
+   9,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "6bf654dc-c7cc-4058-868b-e6ee3899f5a0": {
+  "avg_hr": 114,
+  "date": "2026-08-23",
+  "id": "6bf654dc-c7cc-4058-868b-e6ee3899f5a0",
+  "kcal": 228.0,
+  "max_hr": 164,
+  "minutes": 69,
+  "sport": "walking",
+  "start": "17:53",
+  "strain": 7.5,
+  "zones_min": [
+   17,
+   50,
+   1,
+   1,
+   0,
+   0
+  ]
+ },
+ "6d5f33f3-caad-4e57-8ca7-56ba6a75ead7": {
+  "avg_hr": 104,
+  "date": "2026-06-27",
+  "id": "6d5f33f3-caad-4e57-8ca7-56ba6a75ead7",
+  "kcal": 37.0,
+  "max_hr": 140,
+  "minutes": 19,
+  "sport": "walking",
+  "start": "13:33",
+  "strain": 4.5,
+  "zones_min": [
+   12,
+   7,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "6d9f4ae8-5f6d-426b-bdfc-a5069af97ec1": {
+  "date": "2026-04-08",
+  "id": "6d9f4ae8-5f6d-426b-bdfc-a5069af97ec1",
+  "kcal": 0.0,
+  "minutes": 16,
+  "sport": "stretching",
+  "start": "18:20"
+ },
+ "6dc0ced8-35a6-42b1-a030-6f6944132c49": {
+  "avg_hr": 104,
+  "date": "2026-05-23",
+  "id": "6dc0ced8-35a6-42b1-a030-6f6944132c49",
+  "kcal": 64.0,
+  "max_hr": 135,
+  "minutes": 38,
+  "sport": "dance",
+  "start": "23:00",
+  "strain": 5.0,
+  "zones_min": [
+   31,
+   7,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "6deb07e6-08e8-47a9-b18f-9499b8f3fbbf": {
+  "avg_hr": 113,
+  "date": "2026-07-07",
+  "id": "6deb07e6-08e8-47a9-b18f-9499b8f3fbbf",
+  "kcal": 154.0,
+  "max_hr": 136,
+  "minutes": 60,
+  "sport": "walking",
+  "start": "18:33",
+  "strain": 6.4,
+  "zones_min": [
+   18,
+   42,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "6fcfaa09-0dce-45ed-92d4-ec4951d3be0f": {
+  "avg_hr": 109,
+  "date": "2026-04-06",
+  "id": "6fcfaa09-0dce-45ed-92d4-ec4951d3be0f",
+  "kcal": 38.0,
+  "max_hr": 127,
+  "minutes": 17,
+  "sport": "activity",
+  "start": "16:19",
+  "strain": 4.5,
+  "zones_min": [
+   12,
+   5,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "706da0fc-6229-4186-98dd-92f721289623": {
+  "avg_hr": 149,
+  "date": "2026-05-01",
+  "distance_m": 5287.0,
+  "id": "706da0fc-6229-4186-98dd-92f721289623",
+  "kcal": 383.0,
+  "max_hr": 182,
+  "minutes": 47,
+  "sport": "running",
+  "start": "09:41",
+  "strain": 13.2,
+  "zones_min": [
+   0,
+   8,
+   12,
+   15,
+   10,
+   1
+  ]
+ },
+ "70f40f7c-a79c-49c1-8b49-51209beff63f": {
+  "avg_hr": 98,
+  "date": "2026-07-05",
+  "id": "70f40f7c-a79c-49c1-8b49-51209beff63f",
+  "kcal": 18.0,
+  "max_hr": 120,
+  "minutes": 16,
+  "sport": "walking",
+  "start": "12:35",
+  "strain": 4.0,
+  "zones_min": [
+   15,
+   1,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "7164724c-30a6-4c7c-bff5-f3eeb0b7604c": {
+  "avg_hr": 137,
+  "date": "2026-04-28",
+  "id": "7164724c-30a6-4c7c-bff5-f3eeb0b7604c",
+  "kcal": 414.0,
+  "max_hr": 175,
+  "minutes": 63,
+  "sport": "tennis",
+  "start": "07:59",
+  "strain": 12.8,
+  "zones_min": [
+   4,
+   23,
+   17,
+   14,
+   5,
+   0
+  ]
+ },
+ "71736df3-e420-41c2-b2d4-c967f119345c": {
+  "avg_hr": 154,
+  "date": "2026-07-18",
+  "id": "71736df3-e420-41c2-b2d4-c967f119345c",
+  "kcal": 980.0,
+  "max_hr": 193,
+  "minutes": 113,
+  "sport": "tennis",
+  "start": "11:09",
+  "strain": 18.4,
+  "zones_min": [
+   2,
+   18,
+   20,
+   40,
+   26,
+   8
+  ]
+ },
+ "7189219a-541a-46ba-a0ec-fd3f80338c5e": {
+  "avg_hr": 118,
+  "date": "2026-06-19",
+  "id": "7189219a-541a-46ba-a0ec-fd3f80338c5e",
+  "kcal": 106.0,
+  "max_hr": 143,
+  "minutes": 30,
+  "sport": "walking",
+  "start": "16:38",
+  "strain": 5.8,
+  "zones_min": [
+   7,
+   23,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "71c5e2f6-e458-441a-8a71-f5735c0c289c": {
+  "avg_hr": 129,
+  "date": "2026-07-26",
+  "id": "71c5e2f6-e458-441a-8a71-f5735c0c289c",
+  "kcal": 339.0,
+  "max_hr": 163,
+  "minutes": 64,
+  "sport": "tennis",
+  "start": "17:01",
+  "strain": 10.5,
+  "zones_min": [
+   7,
+   40,
+   14,
+   4,
+   0,
+   0
+  ]
+ },
+ "71f223e5-c293-4968-add5-c10699a49733": {
+  "avg_hr": 109,
+  "date": "2026-09-08",
+  "id": "71f223e5-c293-4968-add5-c10699a49733",
+  "kcal": 47.0,
+  "max_hr": 139,
+  "minutes": 20,
+  "sport": "activity",
+  "start": "19:17",
+  "strain": 4.7,
+  "zones_min": [
+   12,
+   8,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "72a1e69c-7fed-4801-9207-2f990be728c6": {
+  "avg_hr": 116,
+  "date": "2026-07-11",
+  "id": "72a1e69c-7fed-4801-9207-2f990be728c6",
+  "kcal": 47.0,
+  "max_hr": 159,
+  "minutes": 15,
+  "sport": "walking",
+  "start": "03:23",
+  "strain": 4.9,
+  "zones_min": [
+   6,
+   5,
+   3,
+   1,
+   0,
+   0
+  ]
+ },
+ "7365fe06-1c81-48f6-92d3-c77cf0526197": {
+  "avg_hr": 98,
+  "date": "2026-05-24",
+  "id": "7365fe06-1c81-48f6-92d3-c77cf0526197",
+  "kcal": 30.0,
+  "max_hr": 115,
+  "minutes": 27,
+  "sport": "dance",
+  "start": "00:17",
+  "strain": 4.2,
+  "zones_min": [
+   27,
+   0,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "753485b1-d7af-49ea-841a-7225da1c932d": {
+  "avg_hr": 105,
+  "date": "2026-06-02",
+  "id": "753485b1-d7af-49ea-841a-7225da1c932d",
+  "kcal": 24.0,
+  "max_hr": 125,
+  "minutes": 13,
+  "sport": "walking",
+  "start": "16:20",
+  "strain": 4.3,
+  "zones_min": [
+   7,
+   6,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "754a325e-88dd-4caf-b551-59928cb94727": {
+  "avg_hr": 115,
+  "date": "2026-06-12",
+  "id": "754a325e-88dd-4caf-b551-59928cb94727",
+  "kcal": 54.0,
+  "max_hr": 154,
+  "minutes": 19,
+  "sport": "walking",
+  "start": "12:42",
+  "strain": 4.8,
+  "zones_min": [
+   7,
+   11,
+   1,
+   0,
+   0,
+   0
+  ]
+ },
+ "75ce23a2-4831-40a9-b071-1821a5892643": {
+  "avg_hr": 114,
+  "date": "2026-06-12",
+  "id": "75ce23a2-4831-40a9-b071-1821a5892643",
+  "kcal": 39.0,
+  "max_hr": 135,
+  "minutes": 14,
+  "sport": "walking",
+  "start": "13:24",
+  "strain": 4.6,
+  "zones_min": [
+   5,
+   9,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "76e31568-ecb3-484a-9dd5-cdb288f3da4a": {
+  "avg_hr": 122,
+  "date": "2026-05-11",
+  "id": "76e31568-ecb3-484a-9dd5-cdb288f3da4a",
+  "kcal": 294.0,
+  "max_hr": 167,
+  "minutes": 69,
+  "sport": "weightlifting",
+  "start": "16:48",
+  "strain": 13.4,
+  "zones_min": [
+   9,
+   43,
+   11,
+   4,
+   0,
+   0
+  ]
+ },
+ "771c89b7-1f65-4524-9fa3-ca539834f0bf": {
+  "avg_hr": 158,
+  "date": "2026-07-29",
+  "id": "771c89b7-1f65-4524-9fa3-ca539834f0bf",
+  "kcal": 785.0,
+  "max_hr": 185,
+  "minutes": 83,
+  "sport": "tennis",
+  "start": "20:03",
+  "strain": 17.5,
+  "zones_min": [
+   0,
+   4,
+   10,
+   40,
+   27,
+   2
+  ]
+ },
+ "774cda88-cfe6-4909-af48-be92e71e55aa": {
+  "avg_hr": 129,
+  "date": "2026-05-25",
+  "id": "774cda88-cfe6-4909-af48-be92e71e55aa",
+  "kcal": 378.0,
+  "max_hr": 168,
+  "minutes": 71,
+  "sport": "weightlifting",
+  "start": "17:20",
+  "strain": 14.0,
+  "zones_min": [
+   3,
+   45,
+   16,
+   6,
+   0,
+   0
+  ]
+ },
+ "78c68f3b-f8ad-4a39-acd2-a845b76b46d7": {
+  "avg_hr": 111,
+  "date": "2026-06-03",
+  "id": "78c68f3b-f8ad-4a39-acd2-a845b76b46d7",
+  "kcal": 38.0,
+  "max_hr": 129,
+  "minutes": 15,
+  "sport": "walking",
+  "start": "20:13",
+  "strain": 4.5,
+  "zones_min": [
+   4,
+   11,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "78f99d63-30ca-4773-b9ac-292caeaa4497": {
+  "avg_hr": 97,
+  "date": "2026-07-04",
+  "id": "78f99d63-30ca-4773-b9ac-292caeaa4497",
+  "kcal": 20.0,
+  "max_hr": 125,
+  "minutes": 18,
+  "sport": "walking",
+  "start": "13:24",
+  "strain": 4.1,
+  "zones_min": [
+   16,
+   2,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "7a4f0c0c-1720-4703-ba3f-557b55d22bfd": {
+  "avg_hr": 103,
+  "date": "2026-08-23",
+  "id": "7a4f0c0c-1720-4703-ba3f-557b55d22bfd",
+  "kcal": 27.0,
+  "max_hr": 121,
+  "minutes": 16,
+  "sport": "walking",
+  "start": "01:39",
+  "strain": 4.3,
+  "zones_min": [
+   11,
+   5,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "7b2a3b44-5db9-479a-8793-d914fccc0e3b": {
+  "avg_hr": 111,
+  "date": "2026-07-05",
+  "id": "7b2a3b44-5db9-479a-8793-d914fccc0e3b",
+  "kcal": 174.0,
+  "max_hr": 142,
+  "minutes": 71,
+  "sport": "walking",
+  "start": "14:42",
+  "strain": 6.6,
+  "zones_min": [
+   35,
+   36,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "7c99d515-faf6-460f-84d1-e33edf8899eb": {
+  "avg_hr": 102,
+  "date": "2026-06-24",
+  "id": "7c99d515-faf6-460f-84d1-e33edf8899eb",
+  "kcal": 19.0,
+  "max_hr": 123,
+  "minutes": 13,
+  "sport": "walking",
+  "start": "07:56",
+  "strain": 4.2,
+  "zones_min": [
+   12,
+   1,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "7d280e9d-fe5f-4a3a-b95e-a2573b767391": {
+  "avg_hr": 114,
+  "date": "2026-06-11",
+  "id": "7d280e9d-fe5f-4a3a-b95e-a2573b767391",
+  "kcal": 150.0,
+  "max_hr": 163,
+  "minutes": 51,
+  "sport": "activity",
+  "start": "09:56",
+  "strain": 6.5,
+  "zones_min": [
+   24,
+   23,
+   3,
+   1,
+   0,
+   0
+  ]
+ },
+ "7de36134-2a85-4f11-9714-34324bfce9d2": {
+  "avg_hr": 162,
+  "date": "2026-06-18",
+  "id": "7de36134-2a85-4f11-9714-34324bfce9d2",
+  "kcal": 321.0,
+  "max_hr": 181,
+  "minutes": 32,
+  "sport": "stairmaster",
+  "start": "19:32",
+  "strain": 13.6,
+  "zones_min": [
+   0,
+   1,
+   4,
+   14,
+   12,
+   2
+  ]
+ },
+ "7e0a3d85-8b2b-49c5-af9e-e21305666bc3": {
+  "avg_hr": 130,
+  "date": "2026-06-10",
+  "id": "7e0a3d85-8b2b-49c5-af9e-e21305666bc3",
+  "kcal": 97.0,
+  "max_hr": 162,
+  "minutes": 19,
+  "sport": "walking",
+  "start": "10:38",
+  "strain": 5.8,
+  "zones_min": [
+   0,
+   14,
+   4,
+   1,
+   0,
+   0
+  ]
+ },
+ "7f0dc49e-1871-437c-9cb0-8ff8a325cc5e": {
+  "avg_hr": 101,
+  "date": "2026-07-05",
+  "id": "7f0dc49e-1871-437c-9cb0-8ff8a325cc5e",
+  "kcal": 77.0,
+  "max_hr": 127,
+  "minutes": 54,
+  "sport": "walking",
+  "start": "17:23",
+  "strain": 4.8,
+  "zones_min": [
+   45,
+   9,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "802d6189-64e1-4f26-90f7-7d60a227c40a": {
+  "avg_hr": 122,
+  "date": "2026-07-01",
+  "id": "802d6189-64e1-4f26-90f7-7d60a227c40a",
+  "kcal": 225.0,
+  "max_hr": 157,
+  "minutes": 55,
+  "sport": "weightlifting",
+  "start": "21:46",
+  "strain": 12.6,
+  "zones_min": [
+   9,
+   37,
+   9,
+   0,
+   0,
+   0
+  ]
+ },
+ "80c09be8-d966-4f6d-81eb-f12162357d57": {
+  "avg_hr": 123,
+  "date": "2026-07-25",
+  "id": "80c09be8-d966-4f6d-81eb-f12162357d57",
+  "kcal": 1227.0,
+  "max_hr": 173,
+  "minutes": 290,
+  "sport": "dance",
+  "start": "20:41",
+  "strain": 16.3,
+  "zones_min": [
+   74,
+   177,
+   25,
+   13,
+   1,
+   0
+  ]
+ },
+ "8162532f-c07e-4aae-9075-fc170d841a63": {
+  "avg_hr": 106,
+  "date": "2026-06-23",
+  "id": "8162532f-c07e-4aae-9075-fc170d841a63",
+  "kcal": 24.0,
+  "max_hr": 123,
+  "minutes": 14,
+  "sport": "walking",
+  "start": "20:54",
+  "strain": 4.3,
+  "zones_min": [
+   11,
+   3,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "81f4c766-b8f7-4d13-9cb1-689090bbd067": {
+  "avg_hr": 100,
+  "date": "2026-06-25",
+  "id": "81f4c766-b8f7-4d13-9cb1-689090bbd067",
+  "kcal": 145.0,
+  "max_hr": 137,
+  "minutes": 93,
+  "sport": "walking",
+  "start": "18:00",
+  "strain": 5.7,
+  "zones_min": [
+   76,
+   17,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "81fc6fe3-f985-4710-a375-a0d94257790d": {
+  "avg_hr": 106,
+  "date": "2026-08-07",
+  "id": "81fc6fe3-f985-4710-a375-a0d94257790d",
+  "kcal": 49.0,
+  "max_hr": 147,
+  "minutes": 22,
+  "sport": "hiking-rucking",
+  "start": "10:29",
+  "strain": 4.8,
+  "zones_min": [
+   18,
+   3,
+   1,
+   0,
+   0,
+   0
+  ]
+ },
+ "8491f9b4-fddd-40ee-b12b-611290034f38": {
+  "avg_hr": 119,
+  "date": "2026-05-13",
+  "id": "8491f9b4-fddd-40ee-b12b-611290034f38",
+  "kcal": 240.0,
+  "max_hr": 161,
+  "minutes": 63,
+  "sport": "weightlifting",
+  "start": "16:25",
+  "strain": 12.9,
+  "zones_min": [
+   11,
+   44,
+   7,
+   2,
+   0,
+   0
+  ]
+ },
+ "849aae3e-7387-446a-9fad-78b627fe39e0": {
+  "avg_hr": 116,
+  "date": "2026-04-22",
+  "id": "849aae3e-7387-446a-9fad-78b627fe39e0",
+  "kcal": 209.0,
+  "max_hr": 167,
+  "minutes": 58,
+  "sport": "weightlifting",
+  "start": "16:33",
+  "strain": 12.7,
+  "zones_min": [
+   16,
+   34,
+   7,
+   1,
+   0,
+   0
+  ]
+ },
+ "84ea0732-b42d-4501-8094-ce9d8d00232c": {
+  "avg_hr": 119,
+  "date": "2026-07-11",
+  "id": "84ea0732-b42d-4501-8094-ce9d8d00232c",
+  "kcal": 44.0,
+  "max_hr": 142,
+  "minutes": 13,
+  "sport": "walking",
+  "start": "02:22",
+  "strain": 4.7,
+  "zones_min": [
+   2,
+   11,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "84ff06bc-a922-4fbd-b2b6-13e61d073c96": {
+  "avg_hr": 120,
+  "date": "2026-07-17",
+  "id": "84ff06bc-a922-4fbd-b2b6-13e61d073c96",
+  "kcal": 63.0,
+  "max_hr": 145,
+  "minutes": 18,
+  "sport": "walking",
+  "start": "14:21",
+  "strain": 5.0,
+  "zones_min": [
+   3,
+   15,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "8507906a-13f4-4843-91e0-eb895f3d3de2": {
+  "avg_hr": 146,
+  "date": "2026-05-28",
+  "id": "8507906a-13f4-4843-91e0-eb895f3d3de2",
+  "kcal": 477.0,
+  "max_hr": 178,
+  "minutes": 61,
+  "sport": "tennis",
+  "start": "19:01",
+  "strain": 14.1,
+  "zones_min": [
+   0,
+   15,
+   14,
+   24,
+   7,
+   0
+  ]
+ },
+ "8764a25f-b590-4a37-9803-d8cdb74066a6": {
+  "avg_hr": 108,
+  "date": "2026-05-02",
+  "id": "8764a25f-b590-4a37-9803-d8cdb74066a6",
+  "kcal": 122.0,
+  "max_hr": 164,
+  "minutes": 48,
+  "sport": "activity",
+  "start": "16:24",
+  "strain": 6.0,
+  "zones_min": [
+   23,
+   22,
+   1,
+   1,
+   0,
+   0
+  ]
+ },
+ "87d1d5d7-da3f-4361-8a33-5c81acaaa8b9": {
+  "avg_hr": 104,
+  "date": "2026-07-25",
+  "id": "87d1d5d7-da3f-4361-8a33-5c81acaaa8b9",
+  "kcal": 80.0,
+  "max_hr": 128,
+  "minutes": 50,
+  "sport": "walking",
+  "start": "15:35",
+  "strain": 5.1,
+  "zones_min": [
+   45,
+   5,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "88186301-30f7-41b2-9117-f78fd329cd1d": {
+  "avg_hr": 112,
+  "date": "2026-08-15",
+  "id": "88186301-30f7-41b2-9117-f78fd329cd1d",
+  "kcal": 81.0,
+  "max_hr": 155,
+  "minutes": 27,
+  "sport": "walking",
+  "start": "05:32",
+  "strain": 5.4,
+  "zones_min": [
+   12,
+   13,
+   2,
+   0,
+   0,
+   0
+  ]
+ },
+ "882afca9-4199-4c08-97f1-69901bbf23d3": {
+  "avg_hr": 121,
+  "date": "2026-05-29",
+  "id": "882afca9-4199-4c08-97f1-69901bbf23d3",
+  "kcal": 51.0,
+  "max_hr": 141,
+  "minutes": 12,
+  "sport": "walking",
+  "start": "02:37",
+  "strain": 4.8,
+  "zones_min": [
+   0,
+   11,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "88f0ef0c-0fdd-4c75-9359-dcebb6116839": {
+  "avg_hr": 115,
+  "date": "2026-04-13",
+  "id": "88f0ef0c-0fdd-4c75-9359-dcebb6116839",
+  "kcal": 110.0,
+  "max_hr": 179,
+  "minutes": 32,
+  "sport": "dance",
+  "start": "21:57",
+  "strain": 6.4,
+  "zones_min": [
+   16,
+   12,
+   1,
+   2,
+   1,
+   0
+  ]
+ },
+ "8ad429b0-893b-48f2-a81b-56a8c2d6787b": {
+  "avg_hr": 114,
+  "date": "2026-06-30",
+  "id": "8ad429b0-893b-48f2-a81b-56a8c2d6787b",
+  "kcal": 67.0,
+  "max_hr": 165,
+  "minutes": 22,
+  "sport": "walking",
+  "start": "18:15",
+  "strain": 5.3,
+  "zones_min": [
+   11,
+   8,
+   2,
+   2,
+   0,
+   0
+  ]
+ },
+ "8b699503-a160-4646-bd93-20827fdf8542": {
+  "avg_hr": 109,
+  "date": "2026-05-27",
+  "id": "8b699503-a160-4646-bd93-20827fdf8542",
+  "kcal": 52.0,
+  "max_hr": 147,
+  "minutes": 21,
+  "sport": "walking",
+  "start": "20:30",
+  "strain": 4.8,
+  "zones_min": [
+   12,
+   9,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "8c16c37b-4f5d-4af4-ae81-e4e649a0ac11": {
+  "avg_hr": 106,
+  "date": "2026-07-09",
+  "id": "8c16c37b-4f5d-4af4-ae81-e4e649a0ac11",
+  "kcal": 28.0,
+  "max_hr": 134,
+  "minutes": 17,
+  "sport": "walking",
+  "start": "19:00",
+  "strain": 4.4,
+  "zones_min": [
+   11,
+   6,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "8c99ca64-2af8-4c08-88aa-ada3142eeab5": {
+  "avg_hr": 104,
+  "date": "2026-09-20",
+  "id": "8c99ca64-2af8-4c08-88aa-ada3142eeab5",
+  "kcal": 30.0,
+  "max_hr": 129,
+  "minutes": 14,
+  "sport": "walking",
+  "start": "15:23",
+  "strain": 4.4,
+  "zones_min": [
+   8,
+   6,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "8d030ef8-2c06-4f5f-bbb9-8b17bc84d4f9": {
+  "avg_hr": 110,
+  "date": "2026-07-11",
+  "id": "8d030ef8-2c06-4f5f-bbb9-8b17bc84d4f9",
+  "kcal": 67.0,
+  "max_hr": 150,
+  "minutes": 30,
+  "sport": "walking",
+  "start": "01:00",
+  "strain": 4.9,
+  "zones_min": [
+   14,
+   16,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "8d79111f-6e46-4e95-b752-acf00f5cebf9": {
+  "avg_hr": 112,
+  "date": "2026-05-17",
+  "id": "8d79111f-6e46-4e95-b752-acf00f5cebf9",
+  "kcal": 242.0,
+  "max_hr": 151,
+  "minutes": 84,
+  "sport": "hiking-rucking",
+  "start": "14:23",
+  "strain": 8.0,
+  "zones_min": [
+   40,
+   38,
+   5,
+   0,
+   0,
+   0
+  ]
+ },
+ "8e423b2b-9832-4b0b-a993-ebd2e65cbd48": {
+  "avg_hr": 108,
+  "date": "2026-06-27",
+  "id": "8e423b2b-9832-4b0b-a993-ebd2e65cbd48",
+  "kcal": 54.0,
+  "max_hr": 139,
+  "minutes": 23,
+  "sport": "walking",
+  "start": "12:46",
+  "strain": 4.8,
+  "zones_min": [
+   13,
+   10,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "8e9e85de-dd0b-401a-89df-270f1f461f4e": {
+  "avg_hr": 100,
+  "date": "2026-05-23",
+  "id": "8e9e85de-dd0b-401a-89df-270f1f461f4e",
+  "kcal": 40.0,
+  "max_hr": 138,
+  "minutes": 21,
+  "sport": "swimming",
+  "start": "10:21",
+  "strain": 4.4,
+  "zones_min": [
+   14,
+   7,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "8edaa7ca-202d-486b-a610-4971b7cabf29": {
+  "avg_hr": 100,
+  "date": "2026-09-21",
+  "id": "8edaa7ca-202d-486b-a610-4971b7cabf29",
+  "kcal": 23.0,
+  "max_hr": 121,
+  "minutes": 15,
+  "sport": "walking",
+  "start": "08:38",
+  "strain": 4.3,
+  "zones_min": [
+   12,
+   3,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "8f0c2969-4244-4140-b1cc-acdf6e564a5e": {
+  "avg_hr": 103,
+  "date": "2026-09-04",
+  "id": "8f0c2969-4244-4140-b1cc-acdf6e564a5e",
+  "kcal": 107.0,
+  "max_hr": 141,
+  "minutes": 66,
+  "sport": "weightlifting",
+  "start": "17:26",
+  "strain": 11.6,
+  "zones_min": [
+   46,
+   20,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "8f17e888-93e7-4834-8232-a9e5a65acfc8": {
+  "avg_hr": 115,
+  "date": "2026-05-20",
+  "id": "8f17e888-93e7-4834-8232-a9e5a65acfc8",
+  "kcal": 215.0,
+  "max_hr": 151,
+  "minutes": 67,
+  "sport": "weightlifting",
+  "start": "17:53",
+  "strain": 12.6,
+  "zones_min": [
+   19,
+   46,
+   2,
+   0,
+   0,
+   0
+  ]
+ },
+ "8f348706-4fe4-4743-8330-39561f828774": {
+  "avg_hr": 146,
+  "date": "2026-06-30",
+  "id": "8f348706-4fe4-4743-8330-39561f828774",
+  "kcal": 577.0,
+  "max_hr": 184,
+  "minutes": 74,
+  "sport": "tennis",
+  "start": "20:04",
+  "strain": 15.3,
+  "zones_min": [
+   6,
+   13,
+   14,
+   23,
+   18,
+   0
+  ]
+ },
+ "8f79d1b7-a809-49c8-97a2-b1e71fd34eb8": {
+  "avg_hr": 126,
+  "date": "2026-06-12",
+  "id": "8f79d1b7-a809-49c8-97a2-b1e71fd34eb8",
+  "kcal": 297.0,
+  "max_hr": 163,
+  "minutes": 64,
+  "sport": "swimming",
+  "start": "14:43",
+  "strain": 9.6,
+  "zones_min": [
+   8,
+   41,
+   10,
+   5,
+   0,
+   0
+  ]
+ },
+ "8fa4994e-de77-4eb2-8d1a-1ea15bc2da7c": {
+  "avg_hr": 98,
+  "date": "2026-06-28",
+  "id": "8fa4994e-de77-4eb2-8d1a-1ea15bc2da7c",
+  "kcal": 213.0,
+  "max_hr": 155,
+  "minutes": 140,
+  "sport": "walking",
+  "start": "16:14",
+  "strain": 6.3,
+  "zones_min": [
+   116,
+   19,
+   4,
+   0,
+   0,
+   0
+  ]
+ },
+ "8fbe47be-8e3c-4892-952a-564e26860a19": {
+  "avg_hr": 144,
+  "date": "2026-09-06",
+  "id": "8fbe47be-8e3c-4892-952a-564e26860a19",
+  "kcal": 432.0,
+  "max_hr": 180,
+  "minutes": 59,
+  "sport": "tennis",
+  "start": "08:06",
+  "strain": 13.6,
+  "zones_min": [
+   1,
+   20,
+   13,
+   14,
+   11,
+   1
+  ]
+ },
+ "8fd5d3a9-f0e9-4f30-9742-cc5b9896baf0": {
+  "avg_hr": 112,
+  "date": "2026-06-24",
+  "id": "8fd5d3a9-f0e9-4f30-9742-cc5b9896baf0",
+  "kcal": 57.0,
+  "max_hr": 136,
+  "minutes": 22,
+  "sport": "walking",
+  "start": "09:12",
+  "strain": 4.9,
+  "zones_min": [
+   10,
+   12,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "90b500af-b38f-42d0-ae72-be512bd0d631": {
+  "avg_hr": 110,
+  "date": "2026-06-07",
+  "id": "90b500af-b38f-42d0-ae72-be512bd0d631",
+  "kcal": 106.0,
+  "max_hr": 127,
+  "minutes": 49,
+  "sport": "walking",
+  "start": "15:26",
+  "strain": 5.7,
+  "zones_min": [
+   16,
+   32,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "915a8064-4a00-48cd-80ac-4f548e7afa0e": {
+  "avg_hr": 129,
+  "date": "2026-04-19",
+  "id": "915a8064-4a00-48cd-80ac-4f548e7afa0e",
+  "kcal": 545.0,
+  "max_hr": 165,
+  "minutes": 100,
+  "sport": "tennis",
+  "start": "07:57",
+  "strain": 13.1,
+  "zones_min": [
+   12,
+   47,
+   27,
+   15,
+   0,
+   0
+  ]
+ },
+ "925d5e79-bec5-4368-bf39-0262e495fd1e": {
+  "avg_hr": 110,
+  "date": "2026-06-12",
+  "id": "925d5e79-bec5-4368-bf39-0262e495fd1e",
+  "kcal": 40.0,
+  "max_hr": 130,
+  "minutes": 19,
+  "sport": "walking",
+  "start": "17:15",
+  "strain": 4.6,
+  "zones_min": [
+   14,
+   5,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "92cfac40-2ffb-4708-ac9c-8bd360956964": {
+  "avg_hr": 118,
+  "date": "2026-05-25",
+  "id": "92cfac40-2ffb-4708-ac9c-8bd360956964",
+  "kcal": 122.0,
+  "max_hr": 164,
+  "minutes": 32,
+  "sport": "walking",
+  "start": "20:28",
+  "strain": 6.6,
+  "zones_min": [
+   11,
+   15,
+   4,
+   2,
+   0,
+   0
+  ]
+ },
+ "92ef1590-8f02-47fc-a969-2cefbdd07d2d": {
+  "avg_hr": 112,
+  "date": "2026-08-12",
+  "id": "92ef1590-8f02-47fc-a969-2cefbdd07d2d",
+  "kcal": 77.0,
+  "max_hr": 143,
+  "minutes": 26,
+  "sport": "walking",
+  "start": "18:50",
+  "strain": 5.2,
+  "zones_min": [
+   9,
+   16,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "934941b5-e16e-4677-90d2-2cfca9183df7": {
+  "avg_hr": 96,
+  "date": "2026-08-03",
+  "id": "934941b5-e16e-4677-90d2-2cfca9183df7",
+  "kcal": 111.0,
+  "max_hr": 144,
+  "minutes": 70,
+  "sport": "hiking-rucking",
+  "start": "11:09",
+  "strain": 5.2,
+  "zones_min": [
+   58,
+   12,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "935476f6-e6f6-485c-8ba6-9fef39599314": {
+  "avg_hr": 96,
+  "date": "2026-09-28",
+  "id": "935476f6-e6f6-485c-8ba6-9fef39599314",
+  "kcal": 32.0,
+  "max_hr": 129,
+  "minutes": 22,
+  "sport": "walking",
+  "start": "13:51",
+  "strain": 4.3,
+  "zones_min": [
+   17,
+   5,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "93ba5d11-e09a-4339-aee0-c85aabd97316": {
+  "avg_hr": 108,
+  "date": "2026-07-07",
+  "id": "93ba5d11-e09a-4339-aee0-c85aabd97316",
+  "kcal": 39.0,
+  "max_hr": 130,
+  "minutes": 20,
+  "sport": "walking",
+  "start": "20:14",
+  "strain": 4.6,
+  "zones_min": [
+   10,
+   10,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "94615f12-e10c-45fc-9bbf-7d89c7b3fc1e": {
+  "avg_hr": 129,
+  "date": "2026-07-12",
+  "id": "94615f12-e10c-45fc-9bbf-7d89c7b3fc1e",
+  "kcal": 83.0,
+  "max_hr": 142,
+  "minutes": 17,
+  "sport": "walking",
+  "start": "19:02",
+  "strain": 5.4,
+  "zones_min": [
+   0,
+   17,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "95b4c54a-a9b8-4b51-9195-0ccfd0fc9a77": {
+  "avg_hr": 161,
+  "date": "2026-07-22",
+  "id": "95b4c54a-a9b8-4b51-9195-0ccfd0fc9a77",
+  "kcal": 151.0,
+  "max_hr": 174,
+  "minutes": 15,
+  "sport": "stairmaster",
+  "start": "20:38",
+  "strain": 9.9,
+  "zones_min": [
+   0,
+   1,
+   1,
+   5,
+   8,
+   0
+  ]
+ },
+ "95d035a4-a824-4fe3-beb1-7fa5fcc4a687": {
+  "avg_hr": 93,
+  "date": "2026-06-07",
+  "id": "95d035a4-a824-4fe3-beb1-7fa5fcc4a687",
+  "kcal": 28.0,
+  "max_hr": 129,
+  "minutes": 29,
+  "sport": "walking",
+  "start": "12:38",
+  "strain": 4.0,
+  "zones_min": [
+   28,
+   1,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "998ff2ed-de1d-4d20-97f8-154c6e680842": {
+  "avg_hr": 147,
+  "date": "2026-07-28",
+  "id": "998ff2ed-de1d-4d20-97f8-154c6e680842",
+  "kcal": 508.0,
+  "max_hr": 180,
+  "minutes": 64,
+  "sport": "tennis",
+  "start": "19:12",
+  "strain": 14.4,
+  "zones_min": [
+   3,
+   9,
+   14,
+   29,
+   9,
+   0
+  ]
+ },
+ "9a317a36-a735-47f8-abf3-9fb9788880cf": {
+  "avg_hr": 125,
+  "date": "2026-09-07",
+  "id": "9a317a36-a735-47f8-abf3-9fb9788880cf",
+  "kcal": 287.0,
+  "max_hr": 171,
+  "minutes": 65,
+  "sport": "weightlifting",
+  "start": "18:20",
+  "strain": 13.5,
+  "zones_min": [
+   11,
+   35,
+   12,
+   6,
+   0,
+   0
+  ]
+ },
+ "9b3d0022-6b23-4f3c-b323-1c7cc55a85a6": {
+  "avg_hr": 111,
+  "date": "2026-08-08",
+  "id": "9b3d0022-6b23-4f3c-b323-1c7cc55a85a6",
+  "kcal": 196.0,
+  "max_hr": 142,
+  "minutes": 69,
+  "sport": "walking",
+  "start": "12:29",
+  "strain": 7.0,
+  "zones_min": [
+   32,
+   37,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "9c1bd5fa-be95-4255-ab13-ecee61b4875f": {
+  "avg_hr": 124,
+  "date": "2026-07-24",
+  "id": "9c1bd5fa-be95-4255-ab13-ecee61b4875f",
+  "kcal": 279.0,
+  "max_hr": 170,
+  "minutes": 66,
+  "sport": "weightlifting",
+  "start": "19:39",
+  "strain": 13.3,
+  "zones_min": [
+   13,
+   36,
+   13,
+   4,
+   0,
+   0
+  ]
+ },
+ "9c9ea023-673e-4bb1-b9df-85993c4edd2c": {
+  "avg_hr": 134,
+  "date": "2026-09-19",
+  "id": "9c9ea023-673e-4bb1-b9df-85993c4edd2c",
+  "kcal": 338.0,
+  "max_hr": 171,
+  "minutes": 53,
+  "sport": "weightlifting",
+  "start": "09:30",
+  "strain": 13.8,
+  "zones_min": [
+   1,
+   21,
+   23,
+   7,
+   1,
+   0
+  ]
+ },
+ "9cd74f6c-65dd-4699-8e28-be2136c2858f": {
+  "avg_hr": 117,
+  "date": "2026-07-10",
+  "id": "9cd74f6c-65dd-4699-8e28-be2136c2858f",
+  "kcal": 113.0,
+  "max_hr": 145,
+  "minutes": 35,
+  "sport": "walking",
+  "start": "23:48",
+  "strain": 5.8,
+  "zones_min": [
+   8,
+   26,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "9cf0a533-aa76-4c3b-999b-9162b4939011": {
+  "avg_hr": 113,
+  "date": "2026-06-27",
+  "id": "9cf0a533-aa76-4c3b-999b-9162b4939011",
+  "kcal": 49.0,
+  "max_hr": 152,
+  "minutes": 17,
+  "sport": "walking",
+  "start": "15:56",
+  "strain": 4.8,
+  "zones_min": [
+   7,
+   9,
+   1,
+   0,
+   0,
+   0
+  ]
+ },
+ "9d5354ec-3920-4bd8-be9e-77e657546b72": {
+  "avg_hr": 113,
+  "date": "2026-09-23",
+  "id": "9d5354ec-3920-4bd8-be9e-77e657546b72",
+  "kcal": 108.0,
+  "max_hr": 141,
+  "minutes": 35,
+  "sport": "walking",
+  "start": "20:02",
+  "strain": 5.7,
+  "zones_min": [
+   8,
+   27,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "9f7eae54-733e-412f-8578-c5bc3a036674": {
+  "avg_hr": 99,
+  "date": "2026-05-23",
+  "id": "9f7eae54-733e-412f-8578-c5bc3a036674",
+  "kcal": 17.0,
+  "max_hr": 114,
+  "minutes": 13,
+  "sport": "dance",
+  "start": "19:46",
+  "strain": 4.2,
+  "zones_min": [
+   13,
+   0,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "9f9440b7-0bce-472a-9e04-a953017ec954": {
+  "avg_hr": 101,
+  "date": "2026-09-20",
+  "id": "9f9440b7-0bce-472a-9e04-a953017ec954",
+  "kcal": 30.0,
+  "max_hr": 128,
+  "minutes": 17,
+  "sport": "walking",
+  "start": "17:41",
+  "strain": 4.4,
+  "zones_min": [
+   13,
+   4,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "a0ce9cd9-0faf-4295-8fe7-12fc85dfd975": {
+  "avg_hr": 137,
+  "date": "2026-08-11",
+  "id": "a0ce9cd9-0faf-4295-8fe7-12fc85dfd975",
+  "kcal": 290.0,
+  "max_hr": 172,
+  "minutes": 44,
+  "sport": "tennis",
+  "start": "20:27",
+  "strain": 10.3,
+  "zones_min": [
+   1,
+   16,
+   21,
+   6,
+   1,
+   0
+  ]
+ },
+ "a1c7f70e-c62f-4828-aa93-404ad4ae849b": {
+  "avg_hr": 110,
+  "date": "2026-09-06",
+  "id": "a1c7f70e-c62f-4828-aa93-404ad4ae849b",
+  "kcal": 39.0,
+  "max_hr": 138,
+  "minutes": 17,
+  "sport": "walking",
+  "start": "09:46",
+  "strain": 4.6,
+  "zones_min": [
+   8,
+   8,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "a27a39bb-4685-49f1-a6e8-c06664536085": {
+  "avg_hr": 100,
+  "date": "2026-08-16",
+  "id": "a27a39bb-4685-49f1-a6e8-c06664536085",
+  "kcal": 72.0,
+  "max_hr": 133,
+  "minutes": 33,
+  "sport": "walking",
+  "start": "15:07",
+  "strain": 4.9,
+  "zones_min": [
+   17,
+   16,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "a43bd780-ecb4-4520-aa63-418a31f96545": {
+  "avg_hr": 102,
+  "date": "2026-06-07",
+  "id": "a43bd780-ecb4-4520-aa63-418a31f96545",
+  "kcal": 42.0,
+  "max_hr": 135,
+  "minutes": 24,
+  "sport": "walking",
+  "start": "20:35",
+  "strain": 4.4,
+  "zones_min": [
+   16,
+   8,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "a4744ed9-283c-4816-97a9-d67b976aadaa": {
+  "avg_hr": 118,
+  "date": "2026-04-13",
+  "id": "a4744ed9-283c-4816-97a9-d67b976aadaa",
+  "kcal": 204.0,
+  "max_hr": 152,
+  "minutes": 52,
+  "sport": "dance",
+  "start": "20:10",
+  "strain": 7.3,
+  "zones_min": [
+   13,
+   38,
+   1,
+   0,
+   0,
+   0
+  ]
+ },
+ "a6a8b645-32ff-4f85-9545-8f5c0e7d9fa4": {
+  "avg_hr": 119,
+  "date": "2026-05-16",
+  "id": "a6a8b645-32ff-4f85-9545-8f5c0e7d9fa4",
+  "kcal": 143.0,
+  "max_hr": 156,
+  "minutes": 37,
+  "sport": "walking",
+  "start": "19:46",
+  "strain": 6.7,
+  "zones_min": [
+   12,
+   16,
+   8,
+   0,
+   0,
+   0
+  ]
+ },
+ "a739fc33-9dfd-47f2-b912-0cf0fd58367d": {
+  "avg_hr": 117,
+  "date": "2026-05-14",
+  "id": "a739fc33-9dfd-47f2-b912-0cf0fd58367d",
+  "kcal": 223.0,
+  "max_hr": 160,
+  "minutes": 61,
+  "sport": "tennis",
+  "start": "19:03",
+  "strain": 8.1,
+  "zones_min": [
+   19,
+   33,
+   7,
+   2,
+   0,
+   0
+  ]
+ },
+ "a75fc14b-97f6-40cb-9367-3240c9b69bba": {
+  "avg_hr": 120,
+  "date": "2026-08-26",
+  "id": "a75fc14b-97f6-40cb-9367-3240c9b69bba",
+  "kcal": 119.0,
+  "max_hr": 150,
+  "minutes": 31,
+  "sport": "walking",
+  "start": "09:58",
+  "strain": 6.0,
+  "zones_min": [
+   4,
+   25,
+   2,
+   0,
+   0,
+   0
+  ]
+ },
+ "a76f4d5b-baf7-4c7f-a960-ad0329b94ca0": {
+  "avg_hr": 100,
+  "date": "2026-06-25",
+  "id": "a76f4d5b-baf7-4c7f-a960-ad0329b94ca0",
+  "kcal": 21.0,
+  "max_hr": 122,
+  "minutes": 16,
+  "sport": "walking",
+  "start": "21:15",
+  "strain": 4.2,
+  "zones_min": [
+   14,
+   2,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "a845c08d-523f-4b87-b86f-563f4df1fcb0": {
+  "avg_hr": 107,
+  "date": "2026-07-12",
+  "id": "a845c08d-523f-4b87-b86f-563f4df1fcb0",
+  "kcal": 38.0,
+  "max_hr": 126,
+  "minutes": 22,
+  "sport": "walking",
+  "start": "14:19",
+  "strain": 4.5,
+  "zones_min": [
+   16,
+   6,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "aa28bc2d-dde8-47f5-b655-b4e203f9a74a": {
+  "avg_hr": 125,
+  "date": "2026-04-09",
+  "id": "aa28bc2d-dde8-47f5-b655-b4e203f9a74a",
+  "kcal": 115.0,
+  "max_hr": 165,
+  "minutes": 24,
+  "sport": "bouldering",
+  "start": "19:34",
+  "strain": 6.4,
+  "zones_min": [
+   4,
+   13,
+   4,
+   3,
+   0,
+   0
+  ]
+ },
+ "aa4d218f-e866-4d2f-b398-c396f99fcd02": {
+  "avg_hr": 159,
+  "date": "2026-06-24",
+  "id": "aa4d218f-e866-4d2f-b398-c396f99fcd02",
+  "kcal": 354.0,
+  "max_hr": 171,
+  "minutes": 37,
+  "sport": "stairmaster",
+  "start": "19:58",
+  "strain": 13.8,
+  "zones_min": [
+   0,
+   4,
+   2,
+   20,
+   11,
+   0
+  ]
+ },
+ "aae775c2-8964-4f0b-819d-9c6946ac41bc": {
+  "avg_hr": 121,
+  "date": "2026-09-27",
+  "id": "aae775c2-8964-4f0b-819d-9c6946ac41bc",
+  "kcal": 85.0,
+  "max_hr": 163,
+  "minutes": 20,
+  "sport": "walking",
+  "start": "10:56",
+  "strain": 5.7,
+  "zones_min": [
+   4,
+   13,
+   2,
+   1,
+   0,
+   0
+  ]
+ },
+ "aaf935df-a7c3-4b0b-89be-a14b7ba6399c": {
+  "date": "2026-04-20",
+  "id": "aaf935df-a7c3-4b0b-89be-a14b7ba6399c",
+  "kcal": 0.0,
+  "minutes": 9,
+  "sport": "stretching",
+  "start": "17:40"
+ },
+ "ab1c0b63-885b-494a-8b05-9e0f2976a458": {
+  "date": "2026-05-11",
+  "id": "ab1c0b63-885b-494a-8b05-9e0f2976a458",
+  "kcal": 0.0,
+  "minutes": 8,
+  "sport": "stretching",
+  "start": "17:58"
+ },
+ "ac671ffa-a693-41aa-80fb-3051a478769b": {
+  "avg_hr": 147,
+  "date": "2026-09-13",
+  "id": "ac671ffa-a693-41aa-80fb-3051a478769b",
+  "kcal": 456.0,
+  "max_hr": 191,
+  "minutes": 56,
+  "sport": "tennis",
+  "start": "17:03",
+  "strain": 14.7,
+  "zones_min": [
+   5,
+   9,
+   12,
+   12,
+   14,
+   5
+  ]
+ },
+ "ae171a24-971c-4c81-924b-3784b5a10ea1": {
+  "avg_hr": 117,
+  "date": "2026-09-19",
+  "id": "ae171a24-971c-4c81-924b-3784b5a10ea1",
+  "kcal": 77.0,
+  "max_hr": 152,
+  "minutes": 19,
+  "sport": "activity",
+  "start": "14:09",
+  "strain": 5.3,
+  "zones_min": [
+   3,
+   14,
+   2,
+   0,
+   0,
+   0
+  ]
+ },
+ "af206140-fdbd-4456-92d3-ed249f91aa2c": {
+  "avg_hr": 92,
+  "date": "2026-07-17",
+  "id": "af206140-fdbd-4456-92d3-ed249f91aa2c",
+  "kcal": 27.0,
+  "max_hr": 138,
+  "minutes": 20,
+  "sport": "walking",
+  "start": "16:17",
+  "strain": 4.1,
+  "zones_min": [
+   17,
+   3,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "b0dbce0f-2377-4595-8a88-591c2e14c785": {
+  "avg_hr": 110,
+  "date": "2026-07-11",
+  "id": "b0dbce0f-2377-4595-8a88-591c2e14c785",
+  "kcal": 29.0,
+  "max_hr": 134,
+  "minutes": 13,
+  "sport": "walking",
+  "start": "19:15",
+  "strain": 4.4,
+  "zones_min": [
+   7,
+   6,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "b135e1c9-703c-479e-864e-e7761dd8b808": {
+  "date": "2026-09-07",
+  "id": "b135e1c9-703c-479e-864e-e7761dd8b808",
+  "kcal": 0.0,
+  "minutes": 15,
+  "sport": "stretching",
+  "start": "19:27"
+ },
+ "b19d5005-4568-4eb8-8e12-5f69431ddd6a": {
+  "avg_hr": 128,
+  "date": "2026-08-10",
+  "id": "b19d5005-4568-4eb8-8e12-5f69431ddd6a",
+  "kcal": 316.0,
+  "max_hr": 175,
+  "minutes": 60,
+  "sport": "weightlifting",
+  "start": "21:38",
+  "strain": 13.9,
+  "zones_min": [
+   9,
+   27,
+   14,
+   8,
+   2,
+   0
+  ]
+ },
+ "b1bb4eb8-7c07-4d5d-b82b-c84f269582cf": {
+  "avg_hr": 109,
+  "date": "2026-06-06",
+  "id": "b1bb4eb8-7c07-4d5d-b82b-c84f269582cf",
+  "kcal": 36.0,
+  "max_hr": 133,
+  "minutes": 16,
+  "sport": "walking",
+  "start": "00:25",
+  "strain": 4.5,
+  "zones_min": [
+   5,
+   10,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "b234c150-359f-43a6-9dd2-7fe8f5a443a3": {
+  "avg_hr": 112,
+  "date": "2026-08-23",
+  "id": "b234c150-359f-43a6-9dd2-7fe8f5a443a3",
+  "kcal": 138.0,
+  "max_hr": 140,
+  "minutes": 47,
+  "sport": "walking",
+  "start": "21:33",
+  "strain": 6.1,
+  "zones_min": [
+   13,
+   33,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "b26973cf-86c4-4b43-a5a5-cc7edae58834": {
+  "avg_hr": 105,
+  "date": "2026-05-26",
+  "id": "b26973cf-86c4-4b43-a5a5-cc7edae58834",
+  "kcal": 33.0,
+  "max_hr": 128,
+  "minutes": 16,
+  "sport": "walking",
+  "start": "15:35",
+  "strain": 4.4,
+  "zones_min": [
+   11,
+   5,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "b337cd40-ceab-43ac-a0dc-c2c91a287a12": {
+  "avg_hr": 127,
+  "date": "2026-04-17",
+  "id": "b337cd40-ceab-43ac-a0dc-c2c91a287a12",
+  "kcal": 312.0,
+  "max_hr": 172,
+  "minutes": 61,
+  "sport": "weightlifting",
+  "start": "16:38",
+  "strain": 13.8,
+  "zones_min": [
+   8,
+   28,
+   16,
+   9,
+   0,
+   0
+  ]
+ },
+ "b3695647-0daf-481a-af42-0520ca57ae06": {
+  "avg_hr": 102,
+  "date": "2026-09-28",
+  "id": "b3695647-0daf-481a-af42-0520ca57ae06",
+  "kcal": 21.0,
+  "max_hr": 122,
+  "minutes": 14,
+  "sport": "walking",
+  "start": "22:22",
+  "strain": 4.2,
+  "zones_min": [
+   11,
+   3,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "b649b1a2-4c10-4694-8d5f-da13b93be6e5": {
+  "avg_hr": 109,
+  "date": "2026-06-06",
+  "id": "b649b1a2-4c10-4694-8d5f-da13b93be6e5",
+  "kcal": 112.0,
+  "max_hr": 165,
+  "minutes": 55,
+  "sport": "dance",
+  "start": "20:40",
+  "strain": 5.7,
+  "zones_min": [
+   29,
+   25,
+   1,
+   0,
+   0,
+   0
+  ]
+ },
+ "b7501cc8-9260-47ce-9ea4-10609d1675ed": {
+  "avg_hr": 110,
+  "date": "2026-04-26",
+  "id": "b7501cc8-9260-47ce-9ea4-10609d1675ed",
+  "kcal": 60.0,
+  "max_hr": 138,
+  "minutes": 22,
+  "sport": "hiking-rucking",
+  "start": "11:43",
+  "strain": 4.9,
+  "zones_min": [
+   9,
+   14,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "b7cf5489-acb1-4c02-b3b2-f21613f491d9": {
+  "avg_hr": 120,
+  "date": "2026-04-22",
+  "id": "b7cf5489-acb1-4c02-b3b2-f21613f491d9",
+  "kcal": 267.0,
+  "max_hr": 152,
+  "minutes": 66,
+  "sport": "tennis",
+  "start": "19:58",
+  "strain": 8.3,
+  "zones_min": [
+   8,
+   53,
+   5,
+   0,
+   0,
+   0
+  ]
+ },
+ "b8d7ec1b-41a1-4c58-902c-940f563368b5": {
+  "avg_hr": 103,
+  "date": "2026-07-07",
+  "id": "b8d7ec1b-41a1-4c58-902c-940f563368b5",
+  "kcal": 81.0,
+  "max_hr": 136,
+  "minutes": 49,
+  "sport": "walking",
+  "start": "17:31",
+  "strain": 4.9,
+  "zones_min": [
+   34,
+   15,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "b920ff79-cf08-43b3-b33c-8417aa798bd7": {
+  "avg_hr": 167,
+  "date": "2026-09-11",
+  "id": "b920ff79-cf08-43b3-b33c-8417aa798bd7",
+  "kcal": 190.0,
+  "max_hr": 180,
+  "minutes": 17,
+  "sport": "stairmaster",
+  "start": "08:31",
+  "strain": 12.0,
+  "zones_min": [
+   0,
+   0,
+   1,
+   4,
+   12,
+   1
+  ]
+ },
+ "bb4564e2-5525-4df8-8dbc-33a6e0555e43": {
+  "avg_hr": 104,
+  "date": "2026-07-05",
+  "id": "bb4564e2-5525-4df8-8dbc-33a6e0555e43",
+  "kcal": 43.0,
+  "max_hr": 129,
+  "minutes": 25,
+  "sport": "walking",
+  "start": "16:46",
+  "strain": 4.5,
+  "zones_min": [
+   17,
+   8,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "bb56c060-bdec-4f3c-af6c-225495f0a69a": {
+  "avg_hr": 161,
+  "date": "2026-06-19",
+  "id": "bb56c060-bdec-4f3c-af6c-225495f0a69a",
+  "kcal": 322.0,
+  "max_hr": 175,
+  "minutes": 32,
+  "sport": "stairmaster",
+  "start": "08:39",
+  "strain": 13.7,
+  "zones_min": [
+   1,
+   1,
+   1,
+   11,
+   19,
+   0
+  ]
+ },
+ "bb8baccf-56db-490b-9aa3-8b6420de40b2": {
+  "avg_hr": 129,
+  "date": "2026-05-31",
+  "id": "bb8baccf-56db-490b-9aa3-8b6420de40b2",
+  "kcal": 95.0,
+  "max_hr": 172,
+  "minutes": 18,
+  "sport": "activity",
+  "start": "06:37",
+  "strain": 6.0,
+  "zones_min": [
+   0,
+   12,
+   3,
+   2,
+   0,
+   0
+  ]
+ },
+ "bc125ca9-84e0-4291-9deb-090091705986": {
+  "avg_hr": 115,
+  "date": "2026-08-22",
+  "id": "bc125ca9-84e0-4291-9deb-090091705986",
+  "kcal": 61.0,
+  "max_hr": 154,
+  "minutes": 18,
+  "sport": "swimming",
+  "start": "10:10",
+  "strain": 5.1,
+  "zones_min": [
+   6,
+   10,
+   1,
+   0,
+   0,
+   0
+  ]
+ },
+ "bc589800-5cb0-4c58-bc98-3ff7f5d121b6": {
+  "avg_hr": 116,
+  "date": "2026-05-25",
+  "id": "bc589800-5cb0-4c58-bc98-3ff7f5d121b6",
+  "kcal": 110.0,
+  "max_hr": 144,
+  "minutes": 32,
+  "sport": "walking",
+  "start": "21:54",
+  "strain": 5.8,
+  "zones_min": [
+   8,
+   24,
+   1,
+   0,
+   0,
+   0
+  ]
+ },
+ "bcaf8a2e-400f-4fb1-9ceb-2e4603726937": {
+  "avg_hr": 92,
+  "date": "2026-07-31",
+  "id": "bcaf8a2e-400f-4fb1-9ceb-2e4603726937",
+  "kcal": 35.0,
+  "max_hr": 134,
+  "minutes": 20,
+  "sport": "walking",
+  "start": "17:04",
+  "strain": 4.4,
+  "zones_min": [
+   16,
+   4,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "be59f0b1-e0d0-4702-9877-8b54ba13f070": {
+  "avg_hr": 119,
+  "date": "2026-09-15",
+  "id": "be59f0b1-e0d0-4702-9877-8b54ba13f070",
+  "kcal": 217.0,
+  "max_hr": 156,
+  "minutes": 50,
+  "sport": "walking",
+  "start": "19:40",
+  "strain": 8.5,
+  "zones_min": [
+   16,
+   20,
+   13,
+   1,
+   0,
+   0
+  ]
+ },
+ "be9060a0-6de7-4c47-afd9-e6c35209dd3b": {
+  "avg_hr": 109,
+  "date": "2026-09-24",
+  "id": "be9060a0-6de7-4c47-afd9-e6c35209dd3b",
+  "kcal": 36.0,
+  "max_hr": 130,
+  "minutes": 14,
+  "sport": "walking",
+  "start": "20:22",
+  "strain": 4.5,
+  "zones_min": [
+   5,
+   9,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "bf87e80b-fbde-4881-b676-609918d633ff": {
+  "avg_hr": 105,
+  "date": "2026-05-28",
+  "id": "bf87e80b-fbde-4881-b676-609918d633ff",
+  "kcal": 26.0,
+  "max_hr": 128,
+  "minutes": 13,
+  "sport": "walking",
+  "start": "15:27",
+  "strain": 4.3,
+  "zones_min": [
+   8,
+   5,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "c182d605-be9a-412e-ae6c-3b8275ca8fc6": {
+  "avg_hr": 102,
+  "date": "2026-06-07",
+  "id": "c182d605-be9a-412e-ae6c-3b8275ca8fc6",
+  "kcal": 18.0,
+  "max_hr": 125,
+  "minutes": 12,
+  "sport": "walking",
+  "start": "18:39",
+  "strain": 4.1,
+  "zones_min": [
+   8,
+   4,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "c1a3e4db-1790-4f76-aa5a-0cca84720acf": {
+  "avg_hr": 104,
+  "date": "2026-06-02",
+  "id": "c1a3e4db-1790-4f76-aa5a-0cca84720acf",
+  "kcal": 22.0,
+  "max_hr": 126,
+  "minutes": 14,
+  "sport": "walking",
+  "start": "17:46",
+  "strain": 4.2,
+  "zones_min": [
+   9,
+   5,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "c25d1816-5cfb-414c-84d9-45b5b75c96d3": {
+  "date": "2026-06-20",
+  "id": "c25d1816-5cfb-414c-84d9-45b5b75c96d3",
+  "kcal": 0.0,
+  "minutes": 96,
+  "sport": "sauna",
+  "start": "13:37"
+ },
+ "c3d6c179-8464-4079-bfcb-7be981e9310f": {
+  "avg_hr": 109,
+  "date": "2026-09-15",
+  "id": "c3d6c179-8464-4079-bfcb-7be981e9310f",
+  "kcal": 40.0,
+  "max_hr": 146,
+  "minutes": 14,
+  "sport": "walking",
+  "start": "16:40",
+  "strain": 4.6,
+  "zones_min": [
+   5,
+   8,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "c3e44f41-b0d8-4903-986a-ade7c0f528fa": {
+  "avg_hr": 111,
+  "date": "2026-09-19",
+  "id": "c3e44f41-b0d8-4903-986a-ade7c0f528fa",
+  "kcal": 37.0,
+  "max_hr": 152,
+  "minutes": 12,
+  "sport": "walking",
+  "start": "17:15",
+  "strain": 4.5,
+  "zones_min": [
+   3,
+   8,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "c6a33a71-ccc9-4022-ac93-0a2ade32e793": {
+  "avg_hr": 117,
+  "date": "2026-09-17",
+  "id": "c6a33a71-ccc9-4022-ac93-0a2ade32e793",
+  "kcal": 86.0,
+  "max_hr": 153,
+  "minutes": 21,
+  "sport": "tennis",
+  "start": "20:08",
+  "strain": 5.5,
+  "zones_min": [
+   3,
+   16,
+   2,
+   0,
+   0,
+   0
+  ]
+ },
+ "c6cd131c-bb82-48b9-859f-6f95feb10130": {
+  "avg_hr": 106,
+  "date": "2026-08-20",
+  "id": "c6cd131c-bb82-48b9-859f-6f95feb10130",
+  "kcal": 28.0,
+  "max_hr": 146,
+  "minutes": 12,
+  "sport": "swimming",
+  "start": "09:42",
+  "strain": 4.4,
+  "zones_min": [
+   6,
+   6,
+   1,
+   0,
+   0,
+   0
+  ]
+ },
+ "c9ce89ed-4e57-4aa6-9f35-0f7e44fab2af": {
+  "avg_hr": 148,
+  "date": "2026-04-18",
+  "id": "c9ce89ed-4e57-4aa6-9f35-0f7e44fab2af",
+  "kcal": 702.0,
+  "max_hr": 178,
+  "minutes": 86,
+  "sport": "tennis",
+  "start": "13:10",
+  "strain": 15.9,
+  "zones_min": [
+   0,
+   13,
+   28,
+   34,
+   11,
+   0
+  ]
+ },
+ "cbaa9fc2-35c6-406c-952c-86a18f3d6c80": {
+  "avg_hr": 133,
+  "date": "2026-06-16",
+  "id": "cbaa9fc2-35c6-406c-952c-86a18f3d6c80",
+  "kcal": 385.0,
+  "max_hr": 177,
+  "minutes": 67,
+  "sport": "tennis",
+  "start": "07:57",
+  "strain": 12.4,
+  "zones_min": [
+   13,
+   22,
+   16,
+   12,
+   5,
+   0
+  ]
+ },
+ "cbec9cda-ac85-4aaf-8da1-37aef23639e1": {
+  "avg_hr": 108,
+  "date": "2026-05-20",
+  "id": "cbec9cda-ac85-4aaf-8da1-37aef23639e1",
+  "kcal": 47.0,
+  "max_hr": 131,
+  "minutes": 21,
+  "sport": "walking",
+  "start": "19:04",
+  "strain": 4.7,
+  "zones_min": [
+   11,
+   10,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "cbf30ff8-a49d-4d43-a064-00946dca7635": {
+  "avg_hr": 102,
+  "date": "2026-07-11",
+  "id": "cbf30ff8-a49d-4d43-a064-00946dca7635",
+  "kcal": 17.0,
+  "max_hr": 124,
+  "minutes": 13,
+  "sport": "walking",
+  "start": "11:39",
+  "strain": 4.2,
+  "zones_min": [
+   11,
+   2,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "cc48a4a5-f734-4d81-91a1-5072b012b561": {
+  "avg_hr": 119,
+  "date": "2026-06-18",
+  "id": "cc48a4a5-f734-4d81-91a1-5072b012b561",
+  "kcal": 218.0,
+  "max_hr": 159,
+  "minutes": 61,
+  "sport": "weightlifting",
+  "start": "18:30",
+  "strain": 12.8,
+  "zones_min": [
+   15,
+   40,
+   6,
+   1,
+   0,
+   0
+  ]
+ },
+ "cc48e2e3-2292-479a-93fc-97b24f9efc71": {
+  "avg_hr": 143,
+  "date": "2026-09-12",
+  "distance_m": 4593.0,
+  "id": "cc48e2e3-2292-479a-93fc-97b24f9efc71",
+  "kcal": 450.0,
+  "max_hr": 190,
+  "minutes": 59,
+  "sport": "running",
+  "start": "20:03",
+  "strain": 14.4,
+  "zones_min": [
+   2,
+   18,
+   12,
+   13,
+   10,
+   5
+  ]
+ },
+ "cc6094e8-21b9-4c34-aafd-5a7bde492843": {
+  "avg_hr": 122,
+  "date": "2026-05-22",
+  "id": "cc6094e8-21b9-4c34-aafd-5a7bde492843",
+  "kcal": 259.0,
+  "max_hr": 153,
+  "minutes": 59,
+  "sport": "dance",
+  "start": "20:22",
+  "strain": 8.6,
+  "zones_min": [
+   10,
+   42,
+   7,
+   0,
+   0,
+   0
+  ]
+ },
+ "cc66219d-f268-48b0-b9ef-0c271cd568fe": {
+  "avg_hr": 129,
+  "date": "2026-09-11",
+  "id": "cc66219d-f268-48b0-b9ef-0c271cd568fe",
+  "kcal": 161.0,
+  "max_hr": 170,
+  "minutes": 28,
+  "sport": "weightlifting",
+  "start": "08:02",
+  "strain": 10.0,
+  "zones_min": [
+   3,
+   10,
+   11,
+   4,
+   1,
+   0
+  ]
+ },
+ "cdaf71c8-e80a-43ab-8592-17448463fe87": {
+  "avg_hr": 157,
+  "date": "2026-05-19",
+  "id": "cdaf71c8-e80a-43ab-8592-17448463fe87",
+  "kcal": 543.0,
+  "max_hr": 188,
+  "minutes": 58,
+  "sport": "tennis",
+  "start": "19:01",
+  "strain": 16.2,
+  "zones_min": [
+   2,
+   7,
+   9,
+   9,
+   23,
+   8
+  ]
+ },
+ "ce3aada5-0c4e-4ae1-a50d-87e590801273": {
+  "avg_hr": 99,
+  "date": "2026-05-19",
+  "id": "ce3aada5-0c4e-4ae1-a50d-87e590801273",
+  "kcal": 18.0,
+  "max_hr": 120,
+  "minutes": 14,
+  "sport": "walking",
+  "start": "17:28",
+  "strain": 4.1,
+  "zones_min": [
+   12,
+   2,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "ce9a3bf4-6d4f-4ba1-b8fd-69c136fafb03": {
+  "avg_hr": 115,
+  "date": "2026-09-09",
+  "id": "ce9a3bf4-6d4f-4ba1-b8fd-69c136fafb03",
+  "kcal": 214.0,
+  "max_hr": 148,
+  "minutes": 62,
+  "sport": "weightlifting",
+  "start": "17:41",
+  "strain": 12.7,
+  "zones_min": [
+   19,
+   41,
+   2,
+   0,
+   0,
+   0
+  ]
+ },
+ "cee8fbe9-3bb2-4f8e-ab6d-b2d48983b4b1": {
+  "avg_hr": 100,
+  "date": "2026-06-08",
+  "id": "cee8fbe9-3bb2-4f8e-ab6d-b2d48983b4b1",
+  "kcal": 40.0,
+  "max_hr": 125,
+  "minutes": 30,
+  "sport": "walking",
+  "start": "10:07",
+  "strain": 4.5,
+  "zones_min": [
+   22,
+   8,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "cf0aba50-4a2a-4ce7-b429-af34b20205ff": {
+  "avg_hr": 122,
+  "date": "2026-05-13",
+  "id": "cf0aba50-4a2a-4ce7-b429-af34b20205ff",
+  "kcal": 78.0,
+  "max_hr": 170,
+  "minutes": 18,
+  "sport": "commuting",
+  "start": "20:44",
+  "strain": 5.5,
+  "zones_min": [
+   2,
+   11,
+   3,
+   1,
+   0,
+   0
+  ]
+ },
+ "d0285f90-6452-42fb-a0d0-269ae93d3e1a": {
+  "avg_hr": 105,
+  "date": "2026-06-27",
+  "id": "d0285f90-6452-42fb-a0d0-269ae93d3e1a",
+  "kcal": 38.0,
+  "max_hr": 131,
+  "minutes": 19,
+  "sport": "walking",
+  "start": "11:18",
+  "strain": 4.5,
+  "zones_min": [
+   11,
+   8,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "d32f6d06-d401-4f0d-a7ad-18e4f631afc6": {
+  "avg_hr": 111,
+  "date": "2026-07-19",
+  "id": "d32f6d06-d401-4f0d-a7ad-18e4f631afc6",
+  "kcal": 35.0,
+  "max_hr": 123,
+  "minutes": 16,
+  "sport": "walking",
+  "start": "12:41",
+  "strain": 4.5,
+  "zones_min": [
+   9,
+   7,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "d4cd65eb-9c90-4203-8465-152c91b046de": {
+  "avg_hr": 103,
+  "date": "2026-09-19",
+  "id": "d4cd65eb-9c90-4203-8465-152c91b046de",
+  "kcal": 37.0,
+  "max_hr": 123,
+  "minutes": 18,
+  "sport": "walking",
+  "start": "15:01",
+  "strain": 4.6,
+  "zones_min": [
+   12,
+   6,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "d6cf6866-47f3-4e64-8f76-e9426b5d6352": {
+  "avg_hr": 129,
+  "date": "2026-08-28",
+  "id": "d6cf6866-47f3-4e64-8f76-e9426b5d6352",
+  "kcal": 111.0,
+  "max_hr": 158,
+  "minutes": 22,
+  "sport": "walking",
+  "start": "10:52",
+  "strain": 6.2,
+  "zones_min": [
+   1,
+   15,
+   5,
+   1,
+   0,
+   0
+  ]
+ },
+ "d8f045f4-5e09-473d-88be-5c7358abe027": {
+  "avg_hr": 104,
+  "date": "2026-08-07",
+  "id": "d8f045f4-5e09-473d-88be-5c7358abe027",
+  "kcal": 48.0,
+  "max_hr": 132,
+  "minutes": 25,
+  "sport": "walking",
+  "start": "20:49",
+  "strain": 4.6,
+  "zones_min": [
+   21,
+   4,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "d91b0458-a21f-4237-a656-99873f9e0b6d": {
+  "avg_hr": 115,
+  "date": "2026-07-07",
+  "id": "d91b0458-a21f-4237-a656-99873f9e0b6d",
+  "kcal": 46.0,
+  "max_hr": 142,
+  "minutes": 16,
+  "sport": "walking",
+  "start": "16:11",
+  "strain": 4.7,
+  "zones_min": [
+   3,
+   12,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "da039bb6-606a-4f8f-89ad-4b33dcf9b620": {
+  "avg_hr": 114,
+  "date": "2026-07-07",
+  "id": "da039bb6-606a-4f8f-89ad-4b33dcf9b620",
+  "kcal": 75.0,
+  "max_hr": 147,
+  "minutes": 26,
+  "sport": "walking",
+  "start": "09:16",
+  "strain": 5.1,
+  "zones_min": [
+   8,
+   17,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "da058e2b-f5e2-4f47-be0e-9cf89f60a3a3": {
+  "avg_hr": 116,
+  "date": "2026-04-08",
+  "id": "da058e2b-f5e2-4f47-be0e-9cf89f60a3a3",
+  "kcal": 346.0,
+  "max_hr": 155,
+  "minutes": 99,
+  "sport": "weightlifting",
+  "start": "16:41",
+  "strain": 13.4,
+  "zones_min": [
+   35,
+   60,
+   5,
+   0,
+   0,
+   0
+  ]
+ },
+ "dc042b50-3051-4f14-ae3d-170795021f33": {
+  "avg_hr": 113,
+  "date": "2026-08-03",
+  "id": "dc042b50-3051-4f14-ae3d-170795021f33",
+  "kcal": 620.0,
+  "max_hr": 168,
+  "minutes": 178,
+  "sport": "hiking-rucking",
+  "start": "15:22",
+  "strain": 13.0,
+  "zones_min": [
+   79,
+   73,
+   19,
+   6,
+   1,
+   0
+  ]
+ },
+ "dd5ce17f-96ba-4118-a6b9-b27cb880c3f6": {
+  "avg_hr": 100,
+  "date": "2026-08-07",
+  "id": "dd5ce17f-96ba-4118-a6b9-b27cb880c3f6",
+  "kcal": 56.0,
+  "max_hr": 132,
+  "minutes": 37,
+  "sport": "hiking-rucking",
+  "start": "19:27",
+  "strain": 4.7,
+  "zones_min": [
+   33,
+   4,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "ddf60ad9-729a-45e2-829d-05480f6ccf92": {
+  "avg_hr": 123,
+  "date": "2026-06-29",
+  "id": "ddf60ad9-729a-45e2-829d-05480f6ccf92",
+  "kcal": 316.0,
+  "max_hr": 158,
+  "minutes": 73,
+  "sport": "weightlifting",
+  "start": "18:39",
+  "strain": 13.4,
+  "zones_min": [
+   10,
+   49,
+   13,
+   1,
+   0,
+   0
+  ]
+ },
+ "deb252de-1c51-405f-8707-40d2c1dd3bdb": {
+  "avg_hr": 108,
+  "date": "2026-05-19",
+  "id": "deb252de-1c51-405f-8707-40d2c1dd3bdb",
+  "kcal": 32.0,
+  "max_hr": 130,
+  "minutes": 12,
+  "sport": "walking",
+  "start": "10:03",
+  "strain": 4.4,
+  "zones_min": [
+   5,
+   7,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "df17dc96-66ee-4e8c-97ef-a8449a641a2f": {
+  "avg_hr": 108,
+  "date": "2026-09-28",
+  "id": "df17dc96-66ee-4e8c-97ef-a8449a641a2f",
+  "kcal": 60.0,
+  "max_hr": 132,
+  "minutes": 25,
+  "sport": "walking",
+  "start": "19:38",
+  "strain": 4.9,
+  "zones_min": [
+   11,
+   14,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "df2c50c0-f8d4-42c1-9bb5-22851ef2a8c6": {
+  "avg_hr": 121,
+  "date": "2026-07-11",
+  "id": "df2c50c0-f8d4-42c1-9bb5-22851ef2a8c6",
+  "kcal": 56.0,
+  "max_hr": 139,
+  "minutes": 15,
+  "sport": "walking",
+  "start": "16:10",
+  "strain": 4.9,
+  "zones_min": [
+   2,
+   13,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "dfe4516b-438c-424c-bbc5-a3b7f01d2fdf": {
+  "avg_hr": 114,
+  "date": "2026-06-20",
+  "id": "dfe4516b-438c-424c-bbc5-a3b7f01d2fdf",
+  "kcal": 42.0,
+  "max_hr": 145,
+  "minutes": 14,
+  "sport": "walking",
+  "start": "20:17",
+  "strain": 4.6,
+  "zones_min": [
+   6,
+   8,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "e03e14e5-29e0-4a19-8dd9-467f9e55eda3": {
+  "avg_hr": 116,
+  "date": "2026-08-17",
+  "id": "e03e14e5-29e0-4a19-8dd9-467f9e55eda3",
+  "kcal": 110.0,
+  "max_hr": 141,
+  "minutes": 32,
+  "sport": "walking",
+  "start": "10:29",
+  "strain": 5.8,
+  "zones_min": [
+   7,
+   25,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "e07e0958-439d-41ba-9929-cf93e1ab1550": {
+  "avg_hr": 140,
+  "date": "2026-09-17",
+  "id": "e07e0958-439d-41ba-9929-cf93e1ab1550",
+  "kcal": 448.0,
+  "max_hr": 181,
+  "minutes": 62,
+  "sport": "tennis",
+  "start": "19:02",
+  "strain": 13.5,
+  "zones_min": [
+   3,
+   19,
+   18,
+   17,
+   5,
+   0
+  ]
+ },
+ "e0e865a5-4028-4a59-85ef-f82c4199cca1": {
+  "avg_hr": 117,
+  "date": "2026-04-06",
+  "id": "e0e865a5-4028-4a59-85ef-f82c4199cca1",
+  "kcal": 185.0,
+  "max_hr": 158,
+  "minutes": 52,
+  "sport": "weightlifting",
+  "start": "16:36",
+  "strain": 12.1,
+  "zones_min": [
+   18,
+   27,
+   6,
+   0,
+   0,
+   0
+  ]
+ },
+ "e0f831b9-956e-4a06-88bb-5fd25b488017": {
+  "avg_hr": 132,
+  "date": "2026-08-30",
+  "id": "e0f831b9-956e-4a06-88bb-5fd25b488017",
+  "kcal": 219.0,
+  "max_hr": 158,
+  "minutes": 40,
+  "sport": "activity",
+  "start": "06:33",
+  "strain": 8.2,
+  "zones_min": [
+   0,
+   28,
+   11,
+   0,
+   0,
+   0
+  ]
+ },
+ "e1778a5f-f5f9-495c-a49d-17e456bf228a": {
+  "avg_hr": 114,
+  "date": "2026-05-13",
+  "id": "e1778a5f-f5f9-495c-a49d-17e456bf228a",
+  "kcal": 43.0,
+  "max_hr": 136,
+  "minutes": 14,
+  "sport": "walking",
+  "start": "17:34",
+  "strain": 4.6,
+  "zones_min": [
+   2,
+   12,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "e1dcfadc-b4ec-42bf-b68e-ca3757299078": {
+  "avg_hr": 103,
+  "date": "2026-06-09",
+  "id": "e1dcfadc-b4ec-42bf-b68e-ca3757299078",
+  "kcal": 54.0,
+  "max_hr": 131,
+  "minutes": 32,
+  "sport": "walking",
+  "start": "18:02",
+  "strain": 4.7,
+  "zones_min": [
+   19,
+   13,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "e21f36e7-4f60-4aea-acdf-bfb7993089ec": {
+  "avg_hr": 111,
+  "date": "2026-09-11",
+  "id": "e21f36e7-4f60-4aea-acdf-bfb7993089ec",
+  "kcal": 106.0,
+  "max_hr": 142,
+  "minutes": 34,
+  "sport": "walking",
+  "start": "19:48",
+  "strain": 5.7,
+  "zones_min": [
+   10,
+   24,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "e2d6f132-fbf7-45b4-a193-1264118f747f": {
+  "avg_hr": 107,
+  "date": "2026-09-24",
+  "id": "e2d6f132-fbf7-45b4-a193-1264118f747f",
+  "kcal": 34.0,
+  "max_hr": 128,
+  "minutes": 15,
+  "sport": "walking",
+  "start": "22:44",
+  "strain": 4.4,
+  "zones_min": [
+   8,
+   7,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "e5db3bba-186b-4d4c-8a14-e2d739733c99": {
+  "avg_hr": 121,
+  "date": "2026-07-08",
+  "id": "e5db3bba-186b-4d4c-8a14-e2d739733c99",
+  "kcal": 79.0,
+  "max_hr": 145,
+  "minutes": 21,
+  "sport": "walking",
+  "start": "20:19",
+  "strain": 5.2,
+  "zones_min": [
+   2,
+   18,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "e5e416db-dfff-4f46-85a9-c7a75a261999": {
+  "avg_hr": 119,
+  "date": "2026-08-26",
+  "id": "e5e416db-dfff-4f46-85a9-c7a75a261999",
+  "kcal": 70.0,
+  "max_hr": 149,
+  "minutes": 19,
+  "sport": "walking",
+  "start": "21:01",
+  "strain": 5.1,
+  "zones_min": [
+   3,
+   15,
+   1,
+   0,
+   0,
+   0
+  ]
+ },
+ "e5e4e7f4-8fcc-4e5e-8af3-99f80b7fc1fa": {
+  "avg_hr": 130,
+  "date": "2026-06-22",
+  "id": "e5e4e7f4-8fcc-4e5e-8af3-99f80b7fc1fa",
+  "kcal": 371.0,
+  "max_hr": 165,
+  "minutes": 71,
+  "sport": "weightlifting",
+  "start": "16:39",
+  "strain": 13.9,
+  "zones_min": [
+   4,
+   42,
+   21,
+   3,
+   0,
+   0
+  ]
+ },
+ "e7d23fbe-96a5-407d-86a8-aece16e580fd": {
+  "avg_hr": 112,
+  "date": "2026-07-07",
+  "id": "e7d23fbe-96a5-407d-86a8-aece16e580fd",
+  "kcal": 51.0,
+  "max_hr": 142,
+  "minutes": 20,
+  "sport": "walking",
+  "start": "16:45",
+  "strain": 4.7,
+  "zones_min": [
+   9,
+   11,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "e887fa09-46fb-4a2d-b823-19183848650d": {
+  "avg_hr": 116,
+  "date": "2026-07-19",
+  "id": "e887fa09-46fb-4a2d-b823-19183848650d",
+  "kcal": 46.0,
+  "max_hr": 130,
+  "minutes": 16,
+  "sport": "walking",
+  "start": "01:19",
+  "strain": 4.7,
+  "zones_min": [
+   4,
+   12,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "e8cb8071-01b4-4a8d-b181-1a6a02e636d7": {
+  "avg_hr": 108,
+  "date": "2026-07-09",
+  "id": "e8cb8071-01b4-4a8d-b181-1a6a02e636d7",
+  "kcal": 49.0,
+  "max_hr": 137,
+  "minutes": 23,
+  "sport": "walking",
+  "start": "21:12",
+  "strain": 4.6,
+  "zones_min": [
+   11,
+   12,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "e9d520d5-c090-4618-871a-063ef6e77b01": {
+  "avg_hr": 130,
+  "date": "2026-09-03",
+  "id": "e9d520d5-c090-4618-871a-063ef6e77b01",
+  "kcal": 303.0,
+  "max_hr": 166,
+  "minutes": 58,
+  "sport": "weightlifting",
+  "start": "18:54",
+  "strain": 13.6,
+  "zones_min": [
+   6,
+   24,
+   21,
+   5,
+   0,
+   0
+  ]
+ },
+ "ea31137f-ebd1-4d9b-b514-fa86af6d2647": {
+  "avg_hr": 110,
+  "date": "2026-08-15",
+  "id": "ea31137f-ebd1-4d9b-b514-fa86af6d2647",
+  "kcal": 50.0,
+  "max_hr": 130,
+  "minutes": 19,
+  "sport": "hiking-rucking",
+  "start": "16:38",
+  "strain": 4.7,
+  "zones_min": [
+   8,
+   11,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "ea39c6c9-1655-4000-bd67-0bc5887a1a57": {
+  "avg_hr": 163,
+  "date": "2026-05-21",
+  "id": "ea39c6c9-1655-4000-bd67-0bc5887a1a57",
+  "kcal": 598.0,
+  "max_hr": 187,
+  "minutes": 58,
+  "sport": "tennis",
+  "start": "19:01",
+  "strain": 17.2,
+  "zones_min": [
+   2,
+   3,
+   6,
+   12,
+   19,
+   16
+  ]
+ },
+ "ea918563-9ad2-4118-a4a6-f054fa68c69e": {
+  "avg_hr": 119,
+  "date": "2026-05-11",
+  "id": "ea918563-9ad2-4118-a4a6-f054fa68c69e",
+  "kcal": 54.0,
+  "max_hr": 138,
+  "minutes": 14,
+  "sport": "walking",
+  "start": "18:15",
+  "strain": 4.8,
+  "zones_min": [
+   1,
+   13,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "ebb9058c-780f-4fdf-9322-17acb7ab8dd6": {
+  "avg_hr": 109,
+  "date": "2026-05-21",
+  "id": "ebb9058c-780f-4fdf-9322-17acb7ab8dd6",
+  "kcal": 34.0,
+  "max_hr": 131,
+  "minutes": 14,
+  "sport": "walking",
+  "start": "15:34",
+  "strain": 4.5,
+  "zones_min": [
+   6,
+   8,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "ec064241-1cb6-4542-a495-3ea0d749a77b": {
+  "avg_hr": 106,
+  "date": "2026-07-26",
+  "id": "ec064241-1cb6-4542-a495-3ea0d749a77b",
+  "kcal": 25.0,
+  "max_hr": 138,
+  "minutes": 13,
+  "sport": "walking",
+  "start": "14:47",
+  "strain": 4.3,
+  "zones_min": [
+   10,
+   3,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "ec76ffac-ef78-4856-9184-4404833cbbe2": {
+  "avg_hr": 122,
+  "date": "2026-06-09",
+  "id": "ec76ffac-ef78-4856-9184-4404833cbbe2",
+  "kcal": 74.0,
+  "max_hr": 151,
+  "minutes": 19,
+  "sport": "walking",
+  "start": "09:41",
+  "strain": 5.3,
+  "zones_min": [
+   2,
+   15,
+   2,
+   0,
+   0,
+   0
+  ]
+ },
+ "ecefbe50-0c05-4c24-8900-4cb24f18d8ea": {
+  "avg_hr": 123,
+  "date": "2026-08-29",
+  "id": "ecefbe50-0c05-4c24-8900-4cb24f18d8ea",
+  "kcal": 50.0,
+  "max_hr": 150,
+  "minutes": 12,
+  "sport": "walking",
+  "start": "16:22",
+  "strain": 4.8,
+  "zones_min": [
+   0,
+   10,
+   2,
+   0,
+   0,
+   0
+  ]
+ },
+ "eff9b1bd-80c3-4432-a05d-5682c002938a": {
+  "avg_hr": 105,
+  "date": "2026-07-19",
+  "id": "eff9b1bd-80c3-4432-a05d-5682c002938a",
+  "kcal": 63.0,
+  "max_hr": 127,
+  "minutes": 48,
+  "sport": "dance",
+  "start": "00:30",
+  "strain": 4.7,
+  "zones_min": [
+   44,
+   4,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "f01fd74e-fec8-4681-bb49-c1397d0e3d58": {
+  "avg_hr": 128,
+  "date": "2026-05-30",
+  "id": "f01fd74e-fec8-4681-bb49-c1397d0e3d58",
+  "kcal": 319.0,
+  "max_hr": 170,
+  "minutes": 62,
+  "sport": "weightlifting",
+  "start": "09:48",
+  "strain": 13.7,
+  "zones_min": [
+   5,
+   33,
+   18,
+   7,
+   0,
+   0
+  ]
+ },
+ "f05b792f-450c-4f62-a8cc-f81c8bdcb0f1": {
+  "avg_hr": 130,
+  "date": "2026-09-22",
+  "id": "f05b792f-450c-4f62-a8cc-f81c8bdcb0f1",
+  "kcal": 313.0,
+  "max_hr": 167,
+  "minutes": 56,
+  "sport": "weightlifting",
+  "start": "17:55",
+  "strain": 13.7,
+  "zones_min": [
+   2,
+   26,
+   19,
+   8,
+   1,
+   0
+  ]
+ },
+ "f0dbd95f-d0b7-4b6e-90cf-c2a80fd7623a": {
+  "avg_hr": 121,
+  "date": "2026-05-23",
+  "id": "f0dbd95f-d0b7-4b6e-90cf-c2a80fd7623a",
+  "kcal": 369.0,
+  "max_hr": 144,
+  "minutes": 89,
+  "sport": "dance",
+  "start": "20:39",
+  "strain": 9.6,
+  "zones_min": [
+   4,
+   83,
+   1,
+   0,
+   0,
+   0
+  ]
+ },
+ "f0fc490c-a92a-4571-bb31-8a60bab57609": {
+  "avg_hr": 117,
+  "date": "2026-08-29",
+  "id": "f0fc490c-a92a-4571-bb31-8a60bab57609",
+  "kcal": 107.0,
+  "max_hr": 150,
+  "minutes": 33,
+  "sport": "dance",
+  "start": "20:36",
+  "strain": 5.8,
+  "zones_min": [
+   9,
+   22,
+   2,
+   0,
+   0,
+   0
+  ]
+ },
+ "f13869e8-21fc-42b6-9288-9bc36ca38170": {
+  "avg_hr": 118,
+  "date": "2026-04-15",
+  "id": "f13869e8-21fc-42b6-9288-9bc36ca38170",
+  "kcal": 230.0,
+  "max_hr": 164,
+  "minutes": 59,
+  "sport": "weightlifting",
+  "start": "17:03",
+  "strain": 12.8,
+  "zones_min": [
+   17,
+   39,
+   3,
+   1,
+   0,
+   0
+  ]
+ },
+ "f146065b-66f3-47db-b457-13f645d130f3": {
+  "avg_hr": 122,
+  "date": "2026-05-06",
+  "id": "f146065b-66f3-47db-b457-13f645d130f3",
+  "kcal": 72.0,
+  "max_hr": 143,
+  "minutes": 17,
+  "sport": "walking",
+  "start": "13:08",
+  "strain": 5.2,
+  "zones_min": [
+   1,
+   15,
+   1,
+   0,
+   0,
+   0
+  ]
+ },
+ "f26fb8f0-8e5f-4676-8b1d-0a73417a8f14": {
+  "avg_hr": 98,
+  "date": "2026-07-04",
+  "id": "f26fb8f0-8e5f-4676-8b1d-0a73417a8f14",
+  "kcal": 40.0,
+  "max_hr": 136,
+  "minutes": 31,
+  "sport": "walking",
+  "start": "11:30",
+  "strain": 4.4,
+  "zones_min": [
+   28,
+   3,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "f3875560-97f7-41bc-9e94-235db2375f5f": {
+  "avg_hr": 118,
+  "date": "2026-04-27",
+  "id": "f3875560-97f7-41bc-9e94-235db2375f5f",
+  "kcal": 217.0,
+  "max_hr": 168,
+  "minutes": 59,
+  "sport": "weightlifting",
+  "start": "15:06",
+  "strain": 12.8,
+  "zones_min": [
+   13,
+   37,
+   6,
+   2,
+   0,
+   0
+  ]
+ },
+ "f3e9cc76-2f52-447a-8256-bab832ca4b62": {
+  "avg_hr": 129,
+  "date": "2026-06-05",
+  "id": "f3e9cc76-2f52-447a-8256-bab832ca4b62",
+  "kcal": 280.0,
+  "max_hr": 166,
+  "minutes": 55,
+  "sport": "weightlifting",
+  "start": "17:19",
+  "strain": 13.2,
+  "zones_min": [
+   5,
+   28,
+   15,
+   7,
+   0,
+   0
+  ]
+ },
+ "f4bf9248-bec9-41e3-bc9c-90cbd06f902f": {
+  "avg_hr": 120,
+  "date": "2026-04-29",
+  "id": "f4bf9248-bec9-41e3-bc9c-90cbd06f902f",
+  "kcal": 230.0,
+  "max_hr": 168,
+  "minutes": 57,
+  "sport": "weightlifting",
+  "start": "15:02",
+  "strain": 12.8,
+  "zones_min": [
+   10,
+   37,
+   7,
+   4,
+   0,
+   0
+  ]
+ },
+ "f50fc97a-80bd-485c-a30d-37b90775f6de": {
+  "avg_hr": 103,
+  "date": "2026-09-23",
+  "id": "f50fc97a-80bd-485c-a30d-37b90775f6de",
+  "kcal": 130.0,
+  "max_hr": 139,
+  "minutes": 68,
+  "sport": "weightlifting",
+  "start": "18:05",
+  "strain": 11.8,
+  "zones_min": [
+   41,
+   27,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "f5377e70-5b90-4448-bcdc-7d319737b80b": {
+  "avg_hr": 101,
+  "date": "2026-05-29",
+  "id": "f5377e70-5b90-4448-bcdc-7d319737b80b",
+  "kcal": 25.0,
+  "max_hr": 130,
+  "minutes": 15,
+  "sport": "walking",
+  "start": "20:10",
+  "strain": 4.3,
+  "zones_min": [
+   11,
+   4,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "f540bbbc-bea3-45c1-b49a-7b6b4da49521": {
+  "avg_hr": 149,
+  "date": "2026-07-30",
+  "id": "f540bbbc-bea3-45c1-b49a-7b6b4da49521",
+  "kcal": 513.0,
+  "max_hr": 188,
+  "minutes": 62,
+  "sport": "tennis",
+  "start": "08:01",
+  "strain": 14.9,
+  "zones_min": [
+   2,
+   12,
+   16,
+   19,
+   12,
+   2
+  ]
+ },
+ "f60066e4-d383-4d98-ae90-43e4b0e3ebc6": {
+  "avg_hr": 114,
+  "date": "2026-07-05",
+  "id": "f60066e4-d383-4d98-ae90-43e4b0e3ebc6",
+  "kcal": 109.0,
+  "max_hr": 150,
+  "minutes": 39,
+  "sport": "walking",
+  "start": "13:48",
+  "strain": 5.7,
+  "zones_min": [
+   11,
+   27,
+   1,
+   0,
+   0,
+   0
+  ]
+ },
+ "f60f6f1d-09f6-4c66-8966-488a1f56be55": {
+  "avg_hr": 110,
+  "date": "2026-07-10",
+  "id": "f60f6f1d-09f6-4c66-8966-488a1f56be55",
+  "kcal": 88.0,
+  "max_hr": 137,
+  "minutes": 40,
+  "sport": "walking",
+  "start": "20:10",
+  "strain": 5.3,
+  "zones_min": [
+   20,
+   20,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "f6bd8851-7a6f-4c3f-ae48-161c59810b7b": {
+  "avg_hr": 97,
+  "date": "2026-05-09",
+  "id": "f6bd8851-7a6f-4c3f-ae48-161c59810b7b",
+  "kcal": 19.0,
+  "max_hr": 128,
+  "minutes": 16,
+  "sport": "hiking-rucking",
+  "start": "15:35",
+  "strain": 4.1,
+  "zones_min": [
+   14,
+   2,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "f6fd0810-d21e-4755-8d83-dd62f1f61ceb": {
+  "avg_hr": 142,
+  "date": "2026-07-12",
+  "id": "f6fd0810-d21e-4755-8d83-dd62f1f61ceb",
+  "kcal": 204.0,
+  "max_hr": 183,
+  "minutes": 30,
+  "sport": "activity",
+  "start": "18:03",
+  "strain": 9.3,
+  "zones_min": [
+   0,
+   14,
+   8,
+   6,
+   2,
+   0
+  ]
+ },
+ "f7e9cc15-edbe-4734-971e-d1be8bd2aecf": {
+  "avg_hr": 122,
+  "date": "2026-05-29",
+  "id": "f7e9cc15-edbe-4734-971e-d1be8bd2aecf",
+  "kcal": 146.0,
+  "max_hr": 152,
+  "minutes": 33,
+  "sport": "activity",
+  "start": "01:40",
+  "strain": 6.7,
+  "zones_min": [
+   6,
+   21,
+   6,
+   0,
+   0,
+   0
+  ]
+ },
+ "f8e956c3-c8ef-409f-afe1-a4e2ae452249": {
+  "avg_hr": 101,
+  "date": "2026-07-22",
+  "id": "f8e956c3-c8ef-409f-afe1-a4e2ae452249",
+  "kcal": 112.0,
+  "max_hr": 166,
+  "minutes": 66,
+  "sport": "weightlifting",
+  "start": "19:32",
+  "strain": 11.7,
+  "zones_min": [
+   48,
+   16,
+   2,
+   1,
+   0,
+   0
+  ]
+ },
+ "fbe2d4b9-de3e-4ff3-9b40-ed3794fc1c97": {
+  "avg_hr": 109,
+  "date": "2026-08-21",
+  "id": "fbe2d4b9-de3e-4ff3-9b40-ed3794fc1c97",
+  "kcal": 48.0,
+  "max_hr": 142,
+  "minutes": 18,
+  "sport": "walking",
+  "start": "20:00",
+  "strain": 4.7,
+  "zones_min": [
+   8,
+   10,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "fd6010e2-d06c-425c-b7ba-2766d0a78042": {
+  "date": "2026-06-15",
+  "id": "fd6010e2-d06c-425c-b7ba-2766d0a78042",
+  "kcal": 0.0,
+  "minutes": 9,
+  "sport": "stretching",
+  "start": "19:34"
+ },
+ "fd81c239-5682-48d6-8cc0-d8ba082fc175": {
+  "avg_hr": 112,
+  "date": "2026-06-06",
+  "id": "fd81c239-5682-48d6-8cc0-d8ba082fc175",
+  "kcal": 50.0,
+  "max_hr": 138,
+  "minutes": 21,
+  "sport": "walking",
+  "start": "19:39",
+  "strain": 4.8,
+  "zones_min": [
+   7,
+   14,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "fd9e09dc-c5c9-46fc-bd1c-00cf70f40505": {
+  "avg_hr": 128,
+  "date": "2026-08-26",
+  "id": "fd9e09dc-c5c9-46fc-bd1c-00cf70f40505",
+  "kcal": 146.0,
+  "max_hr": 160,
+  "minutes": 29,
+  "sport": "walking",
+  "start": "23:45",
+  "strain": 6.7,
+  "zones_min": [
+   0,
+   26,
+   2,
+   0,
+   0,
+   0
+  ]
+ },
+ "fde0453d-8c6d-4302-9580-46e8a6dc7aeb": {
+  "avg_hr": 106,
+  "date": "2026-05-05",
+  "id": "fde0453d-8c6d-4302-9580-46e8a6dc7aeb",
+  "kcal": 30.0,
+  "max_hr": 140,
+  "minutes": 15,
+  "sport": "walking",
+  "start": "19:21",
+  "strain": 4.4,
+  "zones_min": [
+   9,
+   6,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "fe5acdbb-f7a3-4cd4-b17e-deb879912b04": {
+  "avg_hr": 99,
+  "date": "2026-05-26",
+  "id": "fe5acdbb-f7a3-4cd4-b17e-deb879912b04",
+  "kcal": 18.0,
+  "max_hr": 117,
+  "minutes": 13,
+  "sport": "walking",
+  "start": "16:59",
+  "strain": 4.2,
+  "zones_min": [
+   12,
+   1,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "fe882a10-f030-4642-bc1b-8666663d839d": {
+  "avg_hr": 104,
+  "date": "2026-09-20",
+  "id": "fe882a10-f030-4642-bc1b-8666663d839d",
+  "kcal": 50.0,
+  "max_hr": 123,
+  "minutes": 23,
+  "sport": "walking",
+  "start": "13:28",
+  "strain": 4.8,
+  "zones_min": [
+   14,
+   9,
+   0,
+   0,
+   0,
+   0
+  ]
+ }
+}
