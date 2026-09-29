@@ -121,15 +121,21 @@ def fetch_collection(token, path, start):
 def local_dt(iso, offset):
     """UTC ISO timestamp + '+01:00'-style offset -> naive local datetime."""
     dt = datetime.fromisoformat(iso.replace("Z", "+00:00"))
-    sign = -1 if offset.startswith("-") else 1
-    h, m = offset.lstrip("+-").split(":")
-    return (dt + sign * timedelta(hours=int(h), minutes=int(m))).replace(tzinfo=None)
+    # WHOOP uses "+01:00", but older records can have "+0100", "+01", "Z" or nothing.
+    import re
+    m = re.fullmatch(r"([+-])?(\d{1,2}):?(\d{2})?", (offset or "").strip())
+    delta = timedelta(0)
+    if m:
+        delta = timedelta(hours=int(m.group(2)), minutes=int(m.group(3) or 0))
+        if m.group(1) == "-":
+            delta = -delta
+    return (dt + delta).replace(tzinfo=None)
 
 
 def day_of_cycle(cycle):
     # A WHOOP cycle starts at sleep onset. Shifting by 12h maps both a 23:30
     # and a 01:00 sleep onset onto the calendar day you woke up / lived.
-    return (local_dt(cycle["start"], cycle.get("timezone_offset", "+00:00")) + timedelta(hours=12)).date().isoformat()
+    return (local_dt(cycle["start"], cycle.get("timezone_offset")) + timedelta(hours=12)).date().isoformat()
 
 
 def r1(x, n=1):
