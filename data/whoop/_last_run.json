@@ -1,5 +1,7 @@
 {
- "at": "2026-09-29T19:05:01+00:00",
- "crash": "Traceback (most recent call last):\n  File \"/home/runner/work/wellness-data/wellness-data/scripts/whoop_sync.py\", line 275, in <module>\n    main()\n  File \"/home/runner/work/wellness-data/wellness-data/scripts/whoop_sync.py\", line 252, in main\n    days, wos = build(cycles, recoveries, sleeps, workouts)\n                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/wellness-data/wellness-data/scripts/whoop_sync.py\", line 158, in build\n    d = {\"date\": day_of_cycle(c), \"cycle_id\": c[\"id\"], \"cycle_complete\": c.get(\"end\") is not None}\n                 ^^^^^^^^^^^^^^^\n  File \"/home/runner/work/wellness-data/wellness-data/scripts/whoop_sync.py\", line 132, in day_of_cycle\n    return (local_dt(cycle[\"start\"], cycle.get(\"timezone_offset\", \"+00:00\")) + timedelta(hours=12)).date().isoformat()\n            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/wellness-data/wellness-data/scripts/whoop_sync.py\", line 125, in local_dt\n    h, m = offset.lstrip(\"+-\").split(\":\")\n    ^^^^\nValueError: not enough values to unpack (expected 2, got 1)\n",
- "ok": false
+ "at": "2026-09-29T19:08:58+00:00",
+ "days": 550,
+ "errors": [],
+ "note": "522 days, 782 workouts",
+ "ok": true
 }
