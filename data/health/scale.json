@@ -2,23 +2,6 @@
  "2026-09-29": {
   "body_fat": 29.4,
   "date": "2026-09-29",
-  "history": [
-   {
-    "date": "2026-09-29",
-    "lean_mass": 41.9,
-    "source": "ios-shortcut",
-    "time": "20:49",
-    "weight": 59.3
-   },
-   {
-    "body_fat": 29.4,
-    "date": "2026-09-29",
-    "lean_mass": 41.9,
-    "source": "ios-shortcut",
-    "time": "20:51",
-    "weight": 59.3
-   }
-  ],
   "lean_mass": 41.9,
   "source": "ios-shortcut",
   "time": "08:27",
