@@ -26,7 +26,7 @@ jobs:
       WHOOP_CLIENT_SECRET: ${{ secrets.WHOOP_CLIENT_SECRET }}
       WHOOP_REDIRECT_URI: ${{ vars.WHOOP_REDIRECT_URI || 'https://localhost/whoop-callback' }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Check secrets
         run: |

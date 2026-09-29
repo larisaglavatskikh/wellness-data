@@ -27,7 +27,7 @@ jobs:
       WHOOP_CLIENT_ID: ${{ secrets.WHOOP_CLIENT_ID }}
       WHOOP_CLIENT_SECRET: ${{ secrets.WHOOP_CLIENT_SECRET }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Unlock refresh token
         run: |
