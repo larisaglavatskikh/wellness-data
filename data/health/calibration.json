@@ -1,0 +1,7 @@
+{
+ "_note": "Derives the scale's muscle numbers from lean mass. Update from a Xiaomi Home 'Weight report' screenshot now and then.",
+ "bone_pct_of_weight": 4.0,
+ "skeletal_muscle_ratio_of_lean": 0.525,
+ "calibrated_on": "2026-09-29",
+ "calibration_reading": {"weight": 59.3, "lean_mass": 41.9, "muscle_mass": 39.5, "muscle_pct": 66.6, "skeletal_muscle": 22.0, "bone_pct": 4.0}
+}

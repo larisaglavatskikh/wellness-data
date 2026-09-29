@@ -24,6 +24,19 @@ from zoneinfo import ZoneInfo
 OUT = Path("data/health/scale.json")
 TZ = ZoneInfo("Europe/Lisbon")
 META = {"date", "time", "source"}
+CALIB = OUT.parent / "calibration.json"
+
+
+def derive(rec):
+    """Xiaomi computes muscle mass as lean mass minus bone mass. Recreate it
+    (and estimate skeletal muscle) from lean mass using calibration.json."""
+    if not CALIB.exists() or "lean_mass" not in rec or "weight" not in rec:
+        return
+    c = json.loads(CALIB.read_text())
+    muscle = rec["lean_mass"] - rec["weight"] * c["bone_pct_of_weight"] / 100
+    rec["muscle_mass_est"] = round(muscle, 1)
+    rec["muscle_pct_est"] = round(muscle / rec["weight"] * 100, 1)
+    rec["skeletal_muscle_est"] = round(rec["lean_mass"] * c["skeletal_muscle_ratio_of_lean"], 1)
 
 
 def num(v):
@@ -66,6 +79,7 @@ def main():
             x *= 100
         rec[k] = round(x, 2)
 
+    derive(rec)
     if not any(k not in META for k in rec):
         sys.exit(f"No numeric values in payload: {json.dumps(p, ensure_ascii=False)}")
 

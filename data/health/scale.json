@@ -3,6 +3,9 @@
   "body_fat": 29.4,
   "date": "2026-09-29",
   "lean_mass": 41.9,
+  "muscle_mass_est": 39.5,
+  "muscle_pct_est": 66.7,
+  "skeletal_muscle_est": 22.0,
   "source": "ios-shortcut",
   "time": "08:27",
   "weight": 59.3
