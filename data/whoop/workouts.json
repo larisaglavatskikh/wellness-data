@@ -12297,6 +12297,26 @@
    0
   ]
  },
+ "cbdda974-dd3a-49dd-9d1d-0268018f52c0": {
+  "avg_hr": 136,
+  "date": "2026-09-30",
+  "distance_m": 230.0,
+  "id": "cbdda974-dd3a-49dd-9d1d-0268018f52c0",
+  "kcal": 102.0,
+  "max_hr": 156,
+  "minutes": 16,
+  "sport": "walking",
+  "start": "19:57",
+  "strain": 6.4,
+  "zones_min": [
+   0,
+   6,
+   7,
+   2,
+   0,
+   0
+  ]
+ },
  "cbec9cda-ac85-4aaf-8da1-37aef23639e1": {
   "avg_hr": 108,
   "date": "2026-05-20",
@@ -15287,6 +15307,25 @@
   "zones_min": [
    5,
    16,
+   1,
+   0,
+   0,
+   0
+  ]
+ },
+ "ff383cc7-b267-49e3-a269-39d14a504ebc": {
+  "avg_hr": 100,
+  "date": "2026-09-30",
+  "id": "ff383cc7-b267-49e3-a269-39d14a504ebc",
+  "kcal": 114.0,
+  "max_hr": 152,
+  "minutes": 66,
+  "sport": "weightlifting",
+  "start": "18:50",
+  "strain": 11.7,
+  "zones_min": [
+   47,
+   18,
    1,
    0,
    0,
