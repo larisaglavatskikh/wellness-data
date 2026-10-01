@@ -1641,6 +1641,25 @@
   "sport": "stretching",
   "start": "17:52"
  },
+ "1cd7e79c-aa64-4bb6-8a36-f4c5337212b0": {
+  "avg_hr": 101,
+  "date": "2026-10-01",
+  "id": "1cd7e79c-aa64-4bb6-8a36-f4c5337212b0",
+  "kcal": 87.0,
+  "max_hr": 134,
+  "minutes": 47,
+  "sport": "walking",
+  "start": "18:39",
+  "strain": 5.1,
+  "zones_min": [
+   30,
+   17,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
  "1d08a9ee-f10c-4f4a-97e9-4832f2bc745d": {
   "avg_hr": 130,
   "date": "2026-03-13",
@@ -14084,6 +14103,25 @@
    1,
    13,
    0,
+   0,
+   0,
+   0
+  ]
+ },
+ "eb7b3f99-b7d6-4fa9-8cad-3ccf04d28e26": {
+  "avg_hr": 119,
+  "date": "2026-10-01",
+  "id": "eb7b3f99-b7d6-4fa9-8cad-3ccf04d28e26",
+  "kcal": 55.0,
+  "max_hr": 152,
+  "minutes": 14,
+  "sport": "walking",
+  "start": "17:32",
+  "strain": 4.9,
+  "zones_min": [
+   1,
+   11,
+   2,
    0,
    0,
    0
