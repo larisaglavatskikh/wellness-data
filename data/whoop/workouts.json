@@ -13726,6 +13726,25 @@
    0
   ]
  },
+ "e4a02a5f-70cb-4d58-bb96-0fd9b68c1cbe": {
+  "avg_hr": 151,
+  "date": "2026-10-04",
+  "id": "e4a02a5f-70cb-4d58-bb96-0fd9b68c1cbe",
+  "kcal": 542.0,
+  "max_hr": 186,
+  "minutes": 63,
+  "sport": "tennis",
+  "start": "08:59",
+  "strain": 16.0,
+  "zones_min": [
+   3,
+   12,
+   10,
+   13,
+   17,
+   8
+  ]
+ },
  "e5db3bba-186b-4d4c-8a14-e2d739733c99": {
   "avg_hr": 121,
   "date": "2026-07-08",
