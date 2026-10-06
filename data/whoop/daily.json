@@ -13332,7 +13332,7 @@
   "cycle_id": 1848959559,
   "date": "2026-10-05",
   "hrv": 80.1,
-  "kcal_total": 1409.0,
+  "kcal_total": 1673.0,
   "max_hr": 148,
   "recovery": 93.0,
   "resp_rate": 16.5,
@@ -13345,7 +13345,7 @@
   "sleep_performance": 94.0,
   "sleep_rem_h": 1.84,
   "spo2": 97.1,
-  "steps": 5828,
+  "steps": 6147,
   "strain": 7.1,
   "wake": "08:00"
  }
