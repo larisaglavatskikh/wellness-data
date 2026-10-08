@@ -13342,14 +13342,14 @@
   "strain": 5.4
  },
  "2026-10-08": {
-  "avg_hr": 62,
+  "avg_hr": 69,
   "bedtime": "22:31",
   "cycle_complete": false,
   "cycle_id": 1856745572,
   "date": "2026-10-08",
   "hrv": 55.8,
-  "kcal_total": 557.0,
-  "max_hr": 135,
+  "kcal_total": 962.0,
+  "max_hr": 139,
   "recovery": 61.0,
   "resp_rate": 17.4,
   "rhr": 62.0,
@@ -13361,8 +13361,8 @@
   "sleep_performance": 80.0,
   "sleep_rem_h": 2.1,
   "spo2": 95.5,
-  "steps": 73,
-  "strain": 2.8,
+  "steps": 1389,
+  "strain": 4.5,
   "wake": "07:24"
  }
 }
