@@ -13358,8 +13358,8 @@
   "cycle_id": 1859451927,
   "date": "2026-10-09",
   "hrv": 43.3,
-  "kcal_total": 898.0,
-  "max_hr": 131,
+  "kcal_total": 1115.0,
+  "max_hr": 133,
   "recovery": 29.0,
   "resp_rate": 17.0,
   "rhr": 68.0,
@@ -13371,8 +13371,8 @@
   "sleep_performance": 78.0,
   "sleep_rem_h": 1.24,
   "spo2": 96.7,
-  "steps": 447,
-  "strain": 4.4,
+  "steps": 2042,
+  "strain": 4.9,
   "wake": "07:48"
  }
 }
