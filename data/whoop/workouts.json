@@ -5554,6 +5554,25 @@
    0
   ]
  },
+ "56d76b81-edee-48c3-b837-8c7d387e29a6": {
+  "avg_hr": 99,
+  "date": "2026-10-08",
+  "id": "56d76b81-edee-48c3-b837-8c7d387e29a6",
+  "kcal": 24.0,
+  "max_hr": 136,
+  "minutes": 14,
+  "sport": "activity",
+  "start": "22:19",
+  "strain": 4.2,
+  "zones_min": [
+   11,
+   3,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
  "56ef2565-d344-430d-920f-ff8c9dee38a2": {
   "avg_hr": 92,
   "date": "2026-09-06",
