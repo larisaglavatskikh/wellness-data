@@ -12927,6 +12927,25 @@
    0
   ]
  },
+ "ce10d987-d81c-4603-a44b-263bf8c1dac8": {
+  "avg_hr": 121,
+  "date": "2026-10-19",
+  "id": "ce10d987-d81c-4603-a44b-263bf8c1dac8",
+  "kcal": 249.0,
+  "max_hr": 161,
+  "minutes": 61,
+  "sport": "weightlifting",
+  "start": "19:45",
+  "strain": 13.0,
+  "zones_min": [
+   8,
+   41,
+   9,
+   3,
+   0,
+   0
+  ]
+ },
  "ce3aada5-0c4e-4ae1-a50d-87e590801273": {
   "avg_hr": 99,
   "date": "2026-05-19",
