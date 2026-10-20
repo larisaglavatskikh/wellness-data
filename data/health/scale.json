@@ -1882,5 +1882,16 @@
   "source": "ios-shortcut",
   "time": "08:23",
   "weight": 57.4
+ },
+ "2026-10-20": {
+  "body_fat": 27.5,
+  "date": "2026-10-20",
+  "lean_mass": 41.1,
+  "muscle_mass_est": 38.8,
+  "muscle_pct_est": 68.5,
+  "skeletal_muscle_est": 21.6,
+  "source": "ios-shortcut",
+  "time": "08:45",
+  "weight": 56.7
  }
 }
