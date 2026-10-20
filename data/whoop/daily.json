@@ -13466,13 +13466,13 @@
   "wake": "07:02"
  },
  "2026-10-19": {
-  "avg_hr": 72,
+  "avg_hr": 70,
   "bedtime": "00:06",
   "cycle_complete": false,
   "cycle_id": 1885553673,
   "date": "2026-10-19",
   "hrv": 45.1,
-  "kcal_total": 1715.0,
+  "kcal_total": 2097.0,
   "max_hr": 161,
   "recovery": 48.0,
   "resp_rate": 17.2,
