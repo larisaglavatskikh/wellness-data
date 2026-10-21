@@ -4072,6 +4072,25 @@
    0
   ]
  },
+ "3f49e461-de96-4213-b555-8cd18e459204": {
+  "avg_hr": 108,
+  "date": "2026-10-21",
+  "id": "3f49e461-de96-4213-b555-8cd18e459204",
+  "kcal": 33.0,
+  "max_hr": 141,
+  "minutes": 16,
+  "sport": "walking",
+  "start": "20:52",
+  "strain": 4.4,
+  "zones_min": [
+   8,
+   8,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
  "3f757dd8-7909-4f26-b3a4-6fd3db27c21e": {
   "avg_hr": 107,
   "date": "2026-10-14",
@@ -9951,6 +9970,25 @@
    2,
    3,
    2,
+   0
+  ]
+ },
+ "997c4c27-c0be-46a0-acd5-d4a4f9ffdd05": {
+  "avg_hr": 117,
+  "date": "2026-10-21",
+  "id": "997c4c27-c0be-46a0-acd5-d4a4f9ffdd05",
+  "kcal": 202.0,
+  "max_hr": 160,
+  "minutes": 59,
+  "sport": "weightlifting",
+  "start": "19:48",
+  "strain": 12.6,
+  "zones_min": [
+   14,
+   38,
+   8,
+   0,
+   0,
    0
   ]
  },
