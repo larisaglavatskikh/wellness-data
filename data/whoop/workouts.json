@@ -437,6 +437,25 @@
    0
   ]
  },
+ "09cd090f-850c-4829-bd8e-afaeb4e3a0b0": {
+  "avg_hr": 146,
+  "date": "2026-10-22",
+  "id": "09cd090f-850c-4829-bd8e-afaeb4e3a0b0",
+  "kcal": 339.0,
+  "max_hr": 193,
+  "minutes": 44,
+  "sport": "walking",
+  "start": "22:21",
+  "strain": 12.8,
+  "zones_min": [
+   0,
+   16,
+   6,
+   12,
+   8,
+   2
+  ]
+ },
  "09d7168f-ed50-4a8c-b8a3-da2e64d7546b": {
   "avg_hr": 147,
   "date": "2025-10-03",
