@@ -445,7 +445,7 @@
   "max_hr": 193,
   "minutes": 44,
   "sport": "walking",
-  "start": "22:21",
+  "start": "21:21",
   "strain": 12.8,
   "zones_min": [
    0,
@@ -1840,7 +1840,7 @@
   "max_hr": 184,
   "minutes": 60,
   "sport": "tennis",
-  "start": "18:57",
+  "start": "17:57",
   "strain": 11.9,
   "zones_min": [
    10,
@@ -2803,7 +2803,7 @@
   "max_hr": 134,
   "minutes": 25,
   "sport": "walking",
-  "start": "16:25",
+  "start": "15:25",
   "strain": 4.9,
   "zones_min": [
    12,
@@ -15482,7 +15482,7 @@
   "max_hr": 132,
   "minutes": 17,
   "sport": "walking",
-  "start": "12:02",
+  "start": "11:02",
   "strain": 4.4,
   "zones_min": [
    9,

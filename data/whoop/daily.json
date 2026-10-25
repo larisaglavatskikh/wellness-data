@@ -13469,31 +13469,17 @@
  },
  "2026-10-22": {
   "avg_hr": 81,
-  "bedtime": "23:15",
   "cycle_complete": true,
   "cycle_id": 1893480009,
   "date": "2026-10-22",
-  "hrv": 52.6,
   "kcal_total": 2057.0,
   "max_hr": 193,
-  "recovery": 74.0,
-  "resp_rate": 17.6,
-  "rhr": 64.0,
-  "skin_temp": 34.68,
-  "sleep_deep_h": 2.32,
-  "sleep_efficiency": 97.8,
-  "sleep_hours": 8.36,
-  "sleep_need_h": 8.3,
-  "sleep_performance": 95.0,
-  "sleep_rem_h": 1.31,
-  "spo2": 96.4,
   "steps": 6461,
-  "strain": 15.0,
-  "wake": "07:48"
+  "strain": 15.0
  },
  "2026-10-23": {
   "avg_hr": 77,
-  "bedtime": "01:40",
+  "bedtime": "00:40",
   "cycle_complete": true,
   "cycle_id": 1896153947,
   "date": "2026-10-23",
@@ -13513,16 +13499,16 @@
   "spo2": 96.3,
   "steps": 9043,
   "strain": 12.9,
-  "wake": "07:59"
+  "wake": "06:59"
  },
  "2026-10-24": {
-  "avg_hr": 71,
-  "bedtime": "22:36",
+  "avg_hr": 68,
+  "bedtime": "21:36",
   "cycle_complete": false,
   "cycle_id": 1898565252,
   "date": "2026-10-24",
   "hrv": 44.5,
-  "kcal_total": 1604.0,
+  "kcal_total": 2077.0,
   "max_hr": 141,
   "recovery": 53.0,
   "resp_rate": 17.2,
@@ -13537,6 +13523,6 @@
   "spo2": 97.3,
   "steps": 12082,
   "strain": 7.4,
-  "wake": "07:04"
+  "wake": "06:04"
  }
 }
