@@ -13536,13 +13536,13 @@
   "wake": "08:32"
  },
  "2026-10-26": {
-  "avg_hr": 69,
+  "avg_hr": 68,
   "cycle_complete": false,
   "cycle_id": 1904098635,
   "date": "2026-10-26",
-  "kcal_total": 1291.0,
+  "kcal_total": 1443.0,
   "max_hr": 122,
-  "steps": 1305,
-  "strain": 2.6
+  "steps": 1495,
+  "strain": 3.8
  }
 }
